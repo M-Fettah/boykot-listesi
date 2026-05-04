@@ -1,1 +1,29 @@
+{
+  "version": "1.1.0",
+  "markalar": [
+    
+  {
+  "id": 1 ,
+  "marka": "Kahve Dünyası",
+  "alternatif_isimler": ["kahve dünyası", "kahvedünyası"],
+  "kategori": "Kahve",
+  "sebep": "Tamamen yerli olan Kahve Dünyası, Yahudilerin Hamursuz bayramına özel menü çıkarmıştı. Bunun Siyonizm'e destek olarak yorumlanması araştırmacılar arasında ihtilaf barındırmakta.",
+  "kaynak": "https://boykotdedektifi.com/b/kahve-dunyasi-31",
+  "alternatif": "Obsesso , Artukbey Kahve , Mahmood Kahve",
+  "siddet": "orta"
+},
 
+ {
+  "id": 2 ,
+  "marka": "Jacobs",
+  "alternatif_isimler": ["jakob", "jacob"],
+  "kategori": "Kahve",
+  "sebep": " İsrail merkezli Strauss Group ile ticari ve operasyonel ortaklıklar ( Jacobs markası dağıtımı vb.) bulunmaktadır. Hakim hissedarı olan JAB Holding, İsrail merkezli gıda teknolojisi merkezi olan The Kitchen Hub'ın ana partnerlerinden birisidir. İşgale bu bağ üzerinden teknoloji sağlar ve işgalcilerin teknolojilerini satın alarak örgüte ödemeler yapar. ",
+  "kaynak": "https://boykotdedektifi.com/b/jacobs-126",
+  "alternatif": "Obsesso , Artukbey Kahve , Mahmood Kahve",
+  "siddet": "yuksek"
+},
+    
+    
+  ]
+}
