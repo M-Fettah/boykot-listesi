@@ -12,7 +12,6 @@
   "alternatif": "Obsesso , Artukbey Kahve , Mahmood Kahve",
   "siddet": "orta"
 },
-
  {
   "id": 2 ,
   "marka": "Jacobs",
@@ -22,8 +21,278 @@
   "kaynak": "https://boykotdedektifi.com/b/jacobs-126",
   "alternatif": "Obsesso , Artukbey Kahve , Mahmood Kahve",
   "siddet": "yuksek"
-}
-    
-    
+},
+{
+  "id": 3, 
+  "marka": "Tchibo",
+  "alternatif_isimler": ["çibo", "tchibo", "tçibo"],
+  "kategori": "Kahve",
+  "sebep": "Tchibo'nun %100 sahibi olan Maxingvest AG, aynı zamanda İsrail ile güçlü ticari bağları bulunan ve boykot listesinde yer alan Beiersdorf (Nivea, Hansaplast vb.) firmasının da en büyük hissedarıdır. Bu sermaye ortaklığı ve dolaylı finansal destek nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/tchibo-125",
+  "alternatif": "Mahmood Coffee, Artukbey Kahve, Obsesso, Kahve Dünyası",
+  "siddet": "yuksek"
+} ,
+{
+  "id": 4, 
+  "marka": "Cafe Crown",
+  "alternatif_isimler": ["cafe crown", "cafecrown", "kafe crown", "kafe krown"],
+  "kategori": "Kahve",
+  "sebep": "Yıldız Holding'in alt markası olan Ülker'e aittir. Ülker'in, İsrail işgali altındaki topraklarda satılmak üzere Silivri Tesisleri'nde Godiva çikolataları ürettiği ve GodivaIsrael hesabında işgalci topluluğa destek paylaşımları yapıldığı belirtilmektedir. Ayrıca, Yahya Ülker'in boykot edilen Starbucks'a ziyareti ve Yıldız Holding ortaklığındaki Şok Marketler'in boykotu kırmak adına Starbucks ürünlerine özel reyon ve kampanyalar düzenlemesi temel boykot sebepleridir.",
+  "kaynak": "https://boykotdedektifi.com/b/cafe-crown-336",
+  "alternatif": "Torku, Kahve Diyarı, Gua Coffee, Caffe Nero, Artukbey Kahve, Segafredo, Gold Cup, Moliendo Kahve, Cafex, Mahmood Kahve, Obsesso",
+  "siddet": "yuksek"
+} , 
+{
+  "id": 5, 
+  "marka": "Nescafe",
+  "alternatif_isimler": ["nescafe", "neskafe", "nes cafe", "nes kafe"],
+  "kategori": "Kahve",
+  "sebep": "Nestlé firmasına aittir. Nestlé, İsrail'in en büyük gıda üreticilerinden ve distribütörlerinden biri olan Osem Investments'ın sahibidir. Ayrıca, Nestlé'nin Gazze Şeridi'ne yaklaşık 2 km uzaklıktaki Sderot'ta bir araştırma ve geliştirme merkezi bulunmaktadır. Gayrimeşru İsrail yerleşimlerinde üretim yapması ve faaliyet göstermesi temel boykot sebebidir.",
+  "kaynak": "https://boykotdedektifi.com/b/nescafe-320",
+  "alternatif": "Torku, Caffe Nero, Kahve Diyarı, Gua Coffee, Artukbey Kahve, Segafredo, Gold Cup, Moliendo Kahve, Cafex, Mahmood Kahve, Obsesso, Addis Ababa Coffee, Dallmayr, Coffee Bean Box, Altıntelve, Orhan Türk Kahvesi",
+  "siddet": "yuksek"
+},     
+{
+  "id": 6, 
+  "marka": "Coffy",
+  "alternatif_isimler": ["kofi", "coffy coffee", "coffy kahve"],
+  "kategori": "Kahve",
+  "sebep": "Domino's Pizza, Inc. bünyesinde yer alan bir markadır. Domino's Pizza'nın İsrail şubelerinin İsrail ordusuna ücretsiz yemek sağladığına dair destek paylaşımları ve markanın bu süreçteki tutumu nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/coffy-128",
+  "alternatif": "Kahve Dünyası, Espressolab, Kahve Diyarı, Artukbey Kahve, Gua Coffee, Mahmood Kahve, Obsesso, Cafex, Moliendo Kahve",
+  "siddet": "yuksek"
+},
+{
+  "id": 7, 
+  "marka": "Starbucks",
+  "alternatif_isimler": ["starbucks", "starbaks", "starbuck"],
+  "kategori": "Kahve",
+  "sebep": "Vanguard Group ve Blackrock gibi Siyonist hissedarlar markada kâr ortaklarıdır. Bu ikili Terör Örgütü'ne silah tedarik eden Lockheed Martin'de hisse sahibidir. Ayrıca Filistin'i destekleyen sendika işçilerine dava açılacağının duyurulması ve İsrail'e yapılan maddi/sponsorluk destekleri birinci derece boykot sebebidir.",
+  "kaynak": "https://boykotdedektifi.com/b/starbucks-25",
+  "alternatif": "Kahve Diyarı, Gua Coffee, Artukbey Kahve, Caffe Nero, Segafredo, Gold Cup, Moliendo Kahve, Cafex, Mahmood Kahve, Obsesso, Espressolab",
+  "siddet": "yuksek"
+},
+{
+  "id": 8, 
+  "marka": "Nespresso",
+  "alternatif_isimler": ["nespresso", "nespreso"],
+  "kategori": "Kahve",
+  "sebep": "Nestlé firmasına aittir. Nestlé, İsrail'in en büyük gıda üreticilerinden ve distribütörlerinden biri olan Osem Investments'ın sahibidir. Ayrıca, Nestlé'nin Sderot'ta (Gazze yakını) bir araştırma ve geliştirme merkezi bulunmakta olup gayrimeşru yerleşimlerdeki faaliyetleri nedeniyle kesin olarak boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/nespresso-133",
+  "alternatif": "Torku, Caffe Nero, Kahve Diyarı, Gua Coffee, Artukbey Kahve, Dallmayr, Coffee Bean Box, Altıntelve, Orhan Türk Kahvesi",
+  "siddet": "yuksek"
+},
+{
+  "id": 9, 
+  "marka": "Caribou Coffee",
+  "alternatif_isimler": ["caribou", "caribu", "karibu"],
+  "kategori": "Kahve",
+  "sebep": "JAB Holdings bünyesinde yer almaktadır. Hakim hissedar JAB Holding, İsrail merkezli gıda teknolojisi merkezi olan The Kitchen Hub'ın ana partnerlerinden birisidir. Bu dolaylı finansal ve teknolojik ortaklık nedeniyle 'Ahlaken Boykot' listesinde değerlendirilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/caribou-coffee-2273",
+  "alternatif": "Kahve Dünyası, Espressolab, Kahve Diyarı, Gua Coffee, Moliendo Kahve, Cafex",
+  "siddet": "orta"
+},
+{
+  "id": 10, 
+  "marka": "Lavazza",
+  "alternatif_isimler": ["lavazza", "lavaza"],
+  "kategori": "Kahve",
+  "sebep": "Luigi Lavazza S.p.A. bünyesindedir. Markanın İsrail merkezli şirketlerle sürdürdüğü operasyonel ortaklıklar ve İsrail pazarındaki faaliyetleri/destekleri nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/lavazza-132",
+  "alternatif": "Dallmayr, Gold Cup, Segafredo, Artukbey Kahve, Caffe Nero, Kahve Diyarı",
+  "siddet": "yuksek"
+},
+{
+  "id": 11, 
+  "marka": "Eduscho",
+  "alternatif_isimler": ["eduscho", "edusko", "eduşko"],
+  "kategori": "Kahve",
+  "sebep": "Tchibo GmbH bünyesindedir. Tchibo'nun ana şirketi Maxingvest AG, İsrail ile güçlü ticari bağları bulunan Beiersdorf'un en büyük hissedarıdır. Bu sermaye ortaklığı üzerinden İsrail ekonomisine dolaylı katkı sağladığı için boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/eduscho-1328",
+  "alternatif": "Mahmood Coffee, Obsesso, Artukbey Kahve, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+{
+  "id": 12, 
+  "marka": "Dolce Gusto",
+  "alternatif_isimler": ["dolce gusto", "dolçe gusto", "nescafe dolce gusto"],
+  "kategori": "Kahve",
+  "sebep": "Nestlé firmasına ait bir kapsül kahve markasıdır. Nestlé'nin Osem Investments sahipliği ve Sderot bölgesindeki Ar-Ge merkezleri vasıtasıyla işgal topraklarında faaliyet göstermesi sebebiyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/dolce-gusto-134",
+  "alternatif": "Torku, Caffe Nero, Kahve Diyarı, Artukbey Kahve, Cafex, Altıntelve",
+  "siddet": "yuksek"
+},
+{
+  "id": 13, 
+  "marka": "Kahraman Efendi",
+  "alternatif_isimler": ["kahraman efendi", "kahraman efendi kahve"],
+  "kategori": "Kahve",
+  "sebep": "Yerli bir Türk markasıdır. İsrail ile herhangi bir finansal, ticari veya ideolojik bağı bulunmadığı için boykot listesinde DEĞİLDİR. Güvenle tüketilebilecek alternatifler arasındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/kahraman-efendi-373",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 14, 
+  "marka": "Coffee Mate",
+  "alternatif_isimler": ["coffee mate", "kofi meyt", "coffeemate", "coffee-mate"],
+  "kategori": "Kahve (Krema)",
+  "sebep": "Nestlé firmasına ait bir kahve kreması markasıdır. Nestlé, İsrail'in en büyük gıda üreticilerinden Osem Investments'ın sahibidir ve Sderot'ta Ar-Ge merkezi bulunmaktadır. İşgal alanlarındaki operasyonları nedeniyle kesin boykot sebebidir.",
+  "kaynak": "https://boykotdedektifi.com/b/coffee-mate-136",
+  "alternatif": "Yerli süt tozu markaları, Torku Süt Tozu, Pınar Süt Tozu",
+  "siddet": "yuksek"
+},
+{
+  "id": 15, 
+  "marka": "Illy",
+  "alternatif_isimler": ["illy", "illi", "illy coffee", "illy kahve"],
+  "kategori": "Kahve",
+  "sebep": "Illycaffè S.p.A. firmasına aittir. Markanın İsrail'deki şirketlerle distribütörlük anlaşmaları ve işgal rejimine yönelik dolaylı/doğrudan ticari faaliyetleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/illy-1042",
+  "alternatif": "Segafredo, Moliendo Kahve, Gold Cup, Dallmayr, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+{
+  "id": 16, 
+  "marka": "Pret A Manger",
+  "alternatif_isimler": ["pret a manger", "pret", "pret amanger"],
+  "kategori": "Kafe / Kahve",
+  "sebep": "JAB Holdings bünyesinde faaliyet göstermektedir. JAB Holding, İsrail merkezli gıda teknolojisi merkezi olan The Kitchen Hub'ın doğrudan partneridir. İşgale bu bağ üzerinden teknoloji ve finansman sağladığı için boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/pret-a-manger-138",
+  "alternatif": "Kahve Diyarı, Espressolab, Caffe Nero, Gua Coffee, Cafex",
+  "siddet": "yuksek"
+},
+{
+  "id": 17, 
+  "marka": "JDE Jacobs",
+  "alternatif_isimler": ["jacobs", "jakobs", "jde"],
+  "kategori": "Kahve",
+  "sebep": "JAB Holding bünyesinde yer almaktadır. JAB Holding, İsrail merkezli gıda teknolojisi merkezi olan The Kitchen Hub'ın ana partnerlerinden birisidir. İsrail merkezli Strauss Group ile ticari ve operasyonel ortaklıkları bulunması ve işgal rejimine teknoloji/finansman sağlaması nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/jde-jacobs-1489",
+  "alternatif": "Artukbey Kahve, Mahmood Kahve, Obsesso, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+{
+  "id": 18, 
+  "marka": "L'OR",
+  "alternatif_isimler": ["lor", "l'or", "lor kahve"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's (JAB Holding) iştirakidir. JAB Holding'in İsrail merkezli The Kitchen Hub ile olan doğrudan ortaklığı ve İsrail ekonomisine sağladığı finansal destek mekanizmaları sebebiyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/l-r-1576",
+  "alternatif": "Espressolab, Moliendo, Segafredo, Artukbey Kahve",
+  "siddet": "yuksek"
+},
+{
+  "id": 19, 
+  "marka": "Maxwell",
+  "alternatif_isimler": ["maxwell house", "maksvel"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's çatısı altında yer alan bir markadır. Hakim hissedarı olan JAB Holding'in İsrail'deki gıda teknolojisi yatırımları ve işgalci kuruluşlarla olan operasyonel iş birlikleri nedeniyle boykot listesine alınmıştır.",
+  "kaynak": "https://boykotdedektifi.com/b/maxwell-1603",
+  "alternatif": "Mahmood Coffee, Torku, Cafex, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+{
+  "id": 20, 
+  "marka": "Douwe Egberts",
+  "alternatif_isimler": ["douwe egberts", "dav egberts"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's grubuna bağlıdır. JAB Holding üzerinden İsrail merkezli The Kitchen Hub'ın ana partnerlerinden biri olması ve bu kanal üzerinden işgal rejimine finansal kaynak aktarımı sağlaması temel boykot gerekçesidir.",
+  "kaynak": "https://boykotdedektifi.com/b/douwe-egberts-1296",
+  "alternatif": "Dallmayr, Artukbey, Kahve Diyarı, Gua Coffee",
+  "siddet": "yuksek"
+},
+{
+  "id": 21, 
+  "marka": "Kenco Coffee",
+  "alternatif_isimler": ["kenco", "kenko"],
+  "kategori": "Kahve",
+  "sebep": "JAB Holding (JDE Peet's) markasıdır. Şirketin İsrail merkezli teknoloji ve gıda yatırım ortaklıkları, işgal rejimine sağlanan teknolojik ve maddi destekler nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/kenco-coffee-1496",
+  "alternatif": "Caffe Nero, Segafredo, Gold Cup, Mahmood Kahve",
+  "siddet": "yuksek"
+},
+{
+  "id": 22, 
+  "marka": "Stumptown Coffee",
+  "alternatif_isimler": ["stumptown", "stamtayn"],
+  "kategori": "Kahve",
+  "sebep": "JAB Holding bünyesinde faaliyet gösteren JDE Peet's iştirakidir. JAB Holding'in İsrail'deki teknolojik partnerlikleri ve işgalci ekonomiye sunduğu doğrudan/dolaylı katkılar nedeniyle 'Ahlaken Boykot' ve genel boykot listelerindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/stumptown-coffee-1875",
+  "alternatif": "Kahve Dünyası, Espressolab, Gua Coffee, Moliendo",
+  "siddet": "yuksek"
+},
+{
+  "id": 23, 
+  "marka": "Caro",
+  "alternatif_isimler": ["caro", "karo", "nestle caro"],
+  "kategori": "Kahve Alternatifi (Tahıl İçeceği)",
+  "sebep": "Nestlé firmasına aittir. Nestlé'nin İsrailli Osem Investments şirketinin sahibi olması ve Sderot Ar-Ge merkezi üzerinden işgal topraklarında üretim/teknoloji geliştirmesi nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/caro-1207",
+  "alternatif": "Yerli üretim tahıl kahveleri, Türk kahvesi",
+  "siddet": "yuksek"
+},
+{
+  "id": 24, 
+  "marka": "Hag",
+  "alternatif_isimler": ["hag", "kaffee hag", "heyg"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's (JAB Holding) markasıdır. JAB Holding'in İsrail merkezli gıda teknolojisi yatırımları ve işgalci rejimle olan mali bağları nedeniyle boykot listesinde yer alır.",
+  "kaynak": "https://boykotdedektifi.com/b/hag-1429",
+  "alternatif": "Kafeinsiz yerli alternatifler, Artukbey, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+{
+  "id": 25, 
+  "marka": "Gevalia",
+  "alternatif_isimler": ["gevalia", "gevalya"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's iştirakidir. Üst kuruluşu olan JAB Holding'in İsrail'deki The Kitchen Hub üzerinden yürüttüğü ticari ve teknolojik operasyonlar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/gevalia-1420",
+  "alternatif": "Dallmayr, Moliendo, Segafredo, Gold Cup",
+  "siddet": "yuksek"
+},
+{
+  "id": 26, 
+  "marka": "Onko Kaffee",
+  "alternatif_isimler": ["onko", "onko kaffee"],
+  "kategori": "Kahve",
+  "sebep": "JAB Holding bünyesindeki JDE Peet's markalarından biridir. Holdingin İsrail ekonomisine ve gıda teknolojisi merkezlerine sağladığı doğrudan finansman desteği nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/onko-kaffee-1682",
+  "alternatif": "Mahmood Coffee, Artukbey, Torku",
+  "siddet": "yuksek"
+},
+{
+  "id": 27, 
+  "marka": "Pilao",
+  "alternatif_isimler": ["pilao", "pilayo"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's (JAB Holding) grubuna aittir. JAB Holding'in İsrail merkezli partnerlikleri ve işgal rejimine sağladığı mali kaynaklar nedeniyle boykot listesinde bulunmaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/pilao-1760",
+  "alternatif": "Yerli üretim filtre kahveler, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+{
+  "id": 28, 
+  "marka": "Peet's Coffee",
+  "alternatif_isimler": ["peet's", "peets coffee", "pits kofii"],
+  "kategori": "Kahve",
+  "sebep": "JAB Holding'in ana ortağı olduğu JDE Peet's bünyesindedir. JAB Holding'in İsrail gıda teknolojisi merkezi The Kitchen Hub ile olan partnerliği ve işgal rejimine yönelik finansal destekleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/peets-coffee-1708",
+  "alternatif": "Caffe Nero, Espressolab, Kahve Diyarı, Gua Coffee",
+  "siddet": "yuksek"
+},
+{
+  "id": 29, 
+  "marka": "Moccona",
+  "alternatif_isimler": ["moccona", "mokona"],
+  "kategori": "Kahve",
+  "sebep": "JDE Peet's iştirakidir. Üst şirketi JAB Holding'in İsrail merkezli gıda teknolojisi yatırımları ve işgalci kurumlarla olan operasyonel iş birlikleri nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/moccona-1639",
+  "alternatif": "Obsesso, Mahmood Kahve, Artukbey, Kahve Dünyası",
+  "siddet": "yuksek"
+},
+
+ 
   ]
 }
