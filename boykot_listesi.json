@@ -292,7 +292,1146 @@
   "alternatif": "Obsesso, Mahmood Kahve, Artukbey, Kahve Dünyası",
   "siddet": "yuksek"
 },
-
- 
+{
+  "id": 30, 
+  "marka": "Decathlon",
+  "alternatif_isimler": ["decathlon", "dekatlon"],
+  "kategori": "Spor Giyim / Ekipman",
+  "sebep": "Boykot Değil: Yapılan incelemeler sonucunda markanın İsrail ile doğrudan bir finansal desteği veya işgal rejimine yönelik bir yardımı saptanmamıştır. Güvenle tercih edilebilir.",
+  "kaynak": "https://boykotdedektifi.com/b/decathlon-2034",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 31, 
+  "marka": "Mavi",
+  "alternatif_isimler": ["mavi", "mavi jeans"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Boykot Değil: Türkiye merkezli bir giyim markasıdır. İsrail sermayesi veya işgal politikalarına destek veren bir yapısı bulunmadığı için boykot listesinde yer almamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/mavi-68",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 32, 
+  "marka": "Puma",
+  "alternatif_isimler": ["puma", "pima"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "İsrail Futbol Federasyonu'nun (IFA) ana sponsorudur. IFA, işgal altındaki Filistin topraklarında yasa dışı yerleşim yerlerinde faaliyet gösteren kulüpleri bünyesinde barındırmaktadır. Bu doğrudan sponsorluk desteği nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/puma-74",
+  "alternatif": "Lescon, Kinetix, Greyder, Jump, Hammer Jack",
+  "siddet": "yuksek"
+},
+{
+  "id": 33, 
+  "marka": "Penti",
+  "alternatif_isimler": ["penti"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "Boykot Değil: Yerli üretim ve sermaye yapısı nedeniyle boykot kapsamında değildir. İsrail ile bir bağı bulunmamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/penti-1711",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 34, 
+  "marka": "Columbia",
+  "alternatif_isimler": ["columbia", "kolombiya"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Kısmen Boykot: Üretiminin bir kısmını İsrail merkezli tekstil devi Delta Galil üzerinden gerçekleştirmesi ve işgal ekonomisine dolaylı finansal destek sağlaması nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/columbia-1223",
+  "alternatif": "Lumberjack Outdoor, Koton, Defacto",
+  "siddet": "orta"
+},
+{
+  "id": 35, 
+  "marka": "Nike",
+  "alternatif_isimler": ["nike", "nayk"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "Siyonist sermaye grupları olan Vanguard ve Blackrock'ın ana hissedarlar arasında yer alması ve markanın küresel ölçekte İsrail ekonomisine sağladığı dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/nike-75",
+  "alternatif": "Lescon, Kinetix, Jump, Letoon",
+  "siddet": "yuksek"
+},
+{
+  "id": 36, 
+  "marka": "Adidas",
+  "alternatif_isimler": ["adidas", "adidaş"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "İsrail merkezli Delta Galil firması ile olan üretim ortaklığı ve işgal rejiminin sanayi üretimine/ekonomisine sağladığı katkı nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/adidas-65",
+  "alternatif": "Lescon, Kinetix, Jump, Greyder",
+  "siddet": "yuksek"
+},
+{
+  "id": 37, 
+  "marka": "Guess",
+  "alternatif_isimler": ["guess", "ges"],
+  "kategori": "Giyim / Aksesuar",
+  "sebep": "Ahlaken Boykot: Marka hissedarlarının ve kurumsal yapısının İsrail pazarındaki faaliyetleri üzerinden işgal rejimine sağladığı dolaylı mali destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/guess-1416",
+  "alternatif": "Tergan, Gön, Vakko, Derimod",
+  "siddet": "yuksek"
+},
+{
+  "id": 38, 
+  "marka": "Salomon",
+  "alternatif_isimler": ["salomon"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Kısmen Boykot: Bağlı olduğu üst kuruluşların İsrail ile olan ticari bağları ve bölgedeki distribütörlük ağları üzerinden işgal ekonomisine vergi katkısı sağlaması.",
+  "kaynak": "https://boykotdedektifi.com/b/salomon-2091",
+  "alternatif": "Lumberjack Outdoor, Scooter, Greyder",
+  "siddet": "orta"
+},
+{
+  "id": 39, 
+  "marka": "Under Armour",
+  "alternatif_isimler": ["under armour", "andır armur"],
+  "kategori": "Giyim / Spor",
+  "sebep": "Hissedar yapısındaki Siyonist yatırım fonlarının ağırlığı ve İsrail'deki ticari operasyonların işgal ekonomisine finansal güç katması nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/under-armour-1949",
+  "alternatif": "Lescon, Bilcee, Blackspade",
+  "siddet": "yuksek"
+},
+{
+  "id": 40, 
+  "marka": "Reebok",
+  "alternatif_isimler": ["reebok", "ribok"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "Kısmen Boykot: Üst kuruluşunun İsrail ile olan lisans anlaşmaları ve yönetim kademesinin işgal rejimine yönelik dolaylı finansal destekleri gerekçesiyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/reebok-79",
+  "alternatif": "Kinetix, Lescon, Jump",
+  "siddet": "orta"
+},
+{
+  "id": 41, 
+  "marka": "Mango",
+  "alternatif_isimler": ["mango"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: İsrail genelinde geniş mağaza ağının bulunması ve bu operasyonel gelirin işgal rejimi ekonomisine vergi yoluyla aktarılması.",
+  "kaynak": "https://boykotdedektifi.com/b/mango-78",
+  "alternatif": "İpekyol, Twist, LC Waikiki, Koton",
+  "siddet": "orta"
+},
+{
+  "id": 42, 
+  "marka": "Lacoste",
+  "alternatif_isimler": ["lacoste", "lakost"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: Siyonist sermaye yapılarıyla olan hissedarlık bağları ve İsrail merkezli perakende ortaklıkları üzerinden sağlanan ekonomik kaynaklar.",
+  "kaynak": "https://boykotdedektifi.com/b/lacoste-77",
+  "alternatif": "Kiğılı, Altınyıldız, Sarar, Damat",
+  "siddet": "orta"
+},
+{
+  "id": 43, 
+  "marka": "Zara",
+  "alternatif_isimler": ["zara"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Inditex Grubu markasıdır. Tartışmalı reklam kampanyaları ve İsrail'deki geniş mağaza ağıyla işgal ekonomisine sağladığı ciddi vergi katkısı nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/zara-82",
+  "alternatif": "LC Waikiki, Koton, Defacto, İpekyol",
+  "siddet": "yuksek"
+},
+{
+  "id": 44, 
+  "marka": "Asics",
+  "alternatif_isimler": ["asics", "asiks"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "Kısmen Boykot: İsrail'deki resmi distribütörlükleri ve bu kanal üzerinden yürütülen ticari hacmin işgal rejimi ekonomisine sağladığı katkı.",
+  "kaynak": "https://boykotdedektifi.com/b/asics-955",
+  "alternatif": "Lescon, Kinetix, Jump",
+  "siddet": "orta"
+},
+{
+  "id": 45, 
+  "marka": "Tommy Hilfiger",
+  "alternatif_isimler": ["tommy hilfiger", "tomi hilfiger"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "PVH Corp bünyesindedir. Üst yönetimin İsrail merkezli üretim tesisleriyle bağları ve şirketin Siyonist sermaye ortaklıkları nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/tommy-hilfiger-89",
+  "alternatif": "Lufian, Avva, Altınyıldız, Kiğılı",
+  "siddet": "yuksek"
+},
+{
+  "id": 46, 
+  "marka": "Bershka",
+  "alternatif_isimler": ["bershka", "berşka"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Inditex Grubu'na bağlıdır. Grubun İsrail pazarındaki faaliyetleri ve sermaye yapısının işgal rejimine sağladığı dolaylı destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/bershka-83",
+  "alternatif": "Koton, Defacto, LC Waikiki",
+  "siddet": "yuksek"
+},
+{
+  "id": 47, 
+  "marka": "Jack & Jones",
+  "alternatif_isimler": ["jack & jones", "jack and jones"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: Bestseller grubuna bağlıdır. Grubun İsrail'deki yatırımları ve hissedarlarının işgal rejimine sağladığı finansal destek kanalları gerekçesiyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/jack-jones-2275",
+  "alternatif": "Loft, LTB, Colin's, Mavi",
+  "siddet": "orta"
+},
+{
+  "id": 48, 
+  "marka": "Stradivarius",
+  "alternatif_isimler": ["stradivarius", "stradivaryus"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Inditex Grubu bünyesindedir. İsrail ekonomisindeki aktif ticari operasyonları ve grubun genel boykot durumu nedeniyle listelenmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/stradivarius-2040",
+  "alternatif": "Addax, Koton, Defacto, LC Waikiki",
+  "siddet": "yuksek"
+},
+{
+  "id": 49, 
+  "marka": "The North Face",
+  "alternatif_isimler": ["the north face", "nort feys"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Kısmen Boykot: VF Corporation iştirakidir. Şirketin İsrail merkezli üretim ortaklıkları ve yatırımcı portföyündeki Siyonist fonların etkisi nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/the-north-face-88",
+  "alternatif": "Lumberjack, Greyder, Scooter",
+  "siddet": "orta"
+},
+{
+  "id": 50, 
+  "marka": "Calvin Klein",
+  "alternatif_isimler": ["calvin klein", "kelvin klayn", "ck"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "PVH Corp bünyesindedir. Üst yönetiminin İsrail merkezli üretim tesisleriyle olan bağları ve şirketin Siyonist sermaye ortaklıkları nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/calvin-klein-825",
+  "alternatif": "Kiğılı, Altınyıldız, Sarar, Damat",
+  "siddet": "yuksek"
+},
+{
+  "id": 51, 
+  "marka": "H&M",
+  "alternatif_isimler": ["h&m", "h ve m", "hennes & mauritz"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "İsrail'de çok sayıda mağazası bulunmakta ve bu operasyonlardan elde edilen gelir işgal rejimi ekonomisine vergi olarak aktarılmaktadır. Ayrıca markanın bölgedeki aktif ticari duruşu nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/h-m-72",
+  "alternatif": "LC Waikiki, Koton, Defacto",
+  "siddet": "yuksek"
+},
+{
+  "id": 52, 
+  "marka": "Gucci",
+  "alternatif_isimler": ["gucci", "guçi"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "Kering Grubu'na bağlıdır. Grubun ve hissedarlarının İsrail merkezli teknoloji fonlarına ve işgal rejimini destekleyen finansal yapılara olan yatırımları nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/gucci-1320",
+  "alternatif": "Vakko (Yerli Üretim), Beymen (Yerli Markalar)",
+  "siddet": "orta"
+},
+{
+  "id": 53, 
+  "marka": "Gap",
+  "alternatif_isimler": ["gap"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "İsrail'deki perakende ağları ve markanın ana hissedarlarının işgal rejimine sağladığı dolaylı finansal destekler nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/gap-91",
+  "alternatif": "Mavi, LTB, Colin's",
+  "siddet": "yuksek"
+},
+{
+  "id": 54, 
+  "marka": "Levi's",
+  "alternatif_isimler": ["levi's", "levis"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Markanın kurumsal yapısı ve üst düzey yöneticilerinin İsrail yanlısı kuruluşlara verdiği açık maddi destekler ve işgal ekonomisiyle olan köklü bağları nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/levis-90",
+  "alternatif": "Mavi, LTB, Colin's, Loft",
+  "siddet": "yuksek"
+},
+{
+  "id": 55, 
+  "marka": "Gant",
+  "alternatif_isimler": ["gant"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Maus Frères bünyesindedir. Grubun İsrail pazarındaki operasyonları ve Siyonist yatırım fonlarıyla olan sermaye ilişkileri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/gant-1403",
+  "alternatif": "Hemington, Bisse, Kiğılı",
+  "siddet": "orta"
+},
+{
+  "id": 56, 
+  "marka": "Timberland",
+  "alternatif_isimler": ["timberland", "timberlend"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "VF Corporation bünyesindedir. Üst şirketin İsrail merkezli üretim ortaklıkları ve markanın işgal rejimine olan dolaylı finansal desteği nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/timberland-92",
+  "alternatif": "Greyder, Hammer Jack, Scooter",
+  "siddet": "yuksek"
+},
+{
+  "id": 57, 
+  "marka": "Victoria's Secret",
+  "alternatif_isimler": ["victoria's secret", "viktorya sikret"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "Üretiminin büyük bir kısmını İsrail merkezli tekstil devi Delta Galil üzerinden yapmaktadır. İşgal ekonomisine doğrudan üretim desteği sağladığı için kesin boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/victoria-s-secret-98",
+  "alternatif": "Penti, Suwen, Blackspade",
+  "siddet": "yuksek"
+},
+{
+  "id": 58, 
+  "marka": "Oysho",
+  "alternatif_isimler": ["oysho", "oyşo"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "Inditex Grubu markasıdır. Grubun İsrail'deki geniş ticari faaliyetleri ve Zara ile olan bağları nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/oysho-2312",
+  "alternatif": "Penti, Suwen, Dagi",
+  "siddet": "yuksek"
+},
+{
+  "id": 59, 
+  "marka": "Nautica",
+  "alternatif_isimler": ["nautica", "notika"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Authentic Brands Group bünyesindedir. Şirketin İsrail ile olan lisans anlaşmaları ve üst yönetiminin işgal rejimine yönelik finansal destekleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/nautica-96",
+  "alternatif": "Tudors, Kiğılı, Lufian",
+  "siddet": "yuksek"
+},
+{
+  "id": 60, 
+  "marka": "Hugo Boss",
+  "alternatif_isimler": ["hugo boss", "hugo"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: Markanın İsrail pazarındaki faaliyetleri ve Siyonist sermaye gruplarının hissedarlık yapısındaki dolaylı etkileri nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/hugo-boss-99",
+  "alternatif": "Saraylı, Altınyıldız, Sarar",
+  "siddet": "orta"
+},
+{
+  "id": 61, 
+  "marka": "Merrell",
+  "alternatif_isimler": ["merrell", "merel"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Kısmen Boykot: Bağlı olduğu Wolverine World Wide şirketinin İsrail'deki ticari ortaklıkları ve distribütörlük ağları üzerinden işgal ekonomisine katkı sağlamasıdır.",
+  "kaynak": "https://boykotdedektifi.com/b/merrell-2233",
+  "alternatif": "Lumberjack Outdoor, Greyder Outdoor",
+  "siddet": "orta"
+},
+{
+  "id": 62, 
+  "marka": "Giorgio Armani",
+  "alternatif_isimler": ["armani", "giorgio armani"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "Kısmen Boykot: Markanın ve kurucusunun İsrail merkezli kurumlarla olan bağları ve işgal rejimine yönelik finansal/kültürel destekleri nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/giorgio-armani-106",
+  "alternatif": "Vakko, Sarar (Premium Seriler)",
+  "siddet": "orta"
+},
+{
+  "id": 63, 
+  "marka": "Massimo Dutti",
+  "alternatif_isimler": ["massimo dutti", "masimo duti"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Inditex Grubu iştirakidir. Grubun İsrail'deki yüksek ticari hacmi ve işgal ekonomisine sağladığı vergi desteği nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/massimo-dutti-97",
+  "alternatif": "Damat, Network, Altınyıldız Classics",
+  "siddet": "yuksek"
+},
+{
+  "id": 64, 
+  "marka": "Marks & Spencer",
+  "alternatif" : ["marks & spencer", "m&s"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "İsrail'in kuruluşu ve gelişimi sürecinde en büyük finansal destekçilerden biri olması ve halen işgal rejimine yönelik çok güçlü ekonomik/ideolojik bağları nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/marks-spencer-107",
+  "alternatif": "LC Waikiki, Koton, Defacto, İpekyol",
+  "siddet": "yuksek"
+},
+{
+  "id": 65, 
+  "marka": "Tory Burch",
+  "alternatif_isimler": ["tory burch", "tori börç"],
+  "kategori": "Giyim / Aksesuar",
+  "sebep": "Kısmen Boykot: Marka yönetiminin ve sahiplerinin İsrail yanlısı kuruluşlara sağladığı finansal destekler nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/tory-burch-110",
+  "alternatif": "Gön, Tergan, Derimod",
+  "siddet": "orta"
+},
+{
+  "id": 66, 
+  "marka": "Chanel",
+  "alternatif_isimler": ["chanel", "şanel"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "Sahipleri olan Wertheimer ailesinin İsrail'e olan açık ve büyük ölçekli finansal destekleri, markayı işgal rejiminin en büyük destekçilerinden biri yapmaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/chanel-100",
+  "alternatif": "Vakko, Arzu Kaprol (Yerli Tasarımcılar)",
+  "siddet": "yuksek"
+},
+{
+  "id": 67, 
+  "marka": "Champion",
+  "alternatif_isimler": ["champion", "şampiyon"],
+  "kategori": "Giyim / Spor",
+  "sebep": "Hanesbrands bünyesindedir. Şirketin İsrail merkezli tekstil tedarikçileriyle olan iş birliği ve işgal ekonomisine sağladığı dolaylı kaynaklar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/champion-102",
+  "alternatif": "Lescon, Bilcee, Kinetix",
+  "siddet": "orta"
+},
+{
+  "id": 68, 
+  "marka": "Ralph Lauren",
+  "alternatif_isimler": ["ralph lauren", "ralf loren"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: Markanın sermaye yapısındaki Siyonist fonların etkisi ve İsrail pazarı üzerinden işgal rejimine sağlanan ticari destekler nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/ralph-lauren-105",
+  "alternatif": "U.S. Polo Assn. (Aydınlı Grup - Yerli Lisans), Avva, Lufian",
+  "siddet": "orta"
+},
+{
+  "id": 69, 
+  "marka": "King Solomon",
+  "alternatif_isimler": ["king solomon"],
+  "kategori": "Gıda / Tarım (Hurma)",
+  "sebep": "İsrail'in işgal altındaki Ürdün Vadisi'ndeki yasa dışı yerleşim birimlerinde yetiştirilen hurmaların markasıdır. Doğrudan işgal toprağı ürünü olması nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/king-solomon-935",
+  "alternatif": "Medine Hurması, Tunus/Cezayir Hurmaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 70, 
+  "marka": "Louis Vuitton",
+  "alternatif_isimler": ["louis vuitton", "lui viton", "lv"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu markasıdır. Grup CEO'su Bernard Arnault'un İsrail merkezli siber güvenlik şirketi Wiz'e ve diğer İsrail merkezli girişimlere büyük yatırımlar yapması nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/louis-vuitton-103",
+  "alternatif": "Vakko, Beymen (Yerli Tasarımcılar)",
+  "siddet": "yuksek"
+},
+{
+  "id": 71, 
+  "marka": "Adidas Grup",
+  "alternatif_isimler": ["adidas grup", "adidas group"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "İsrail merkezli tekstil devi Delta Galil ile olan stratejik üretim ortaklığı ve işgal rejiminin sanayi ekonomisine sağladığı doğrudan katkı nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/adidas-grup-93",
+  "alternatif": "Lescon, Kinetix, Jump, Greyder",
+  "siddet": "yuksek"
+},
+{
+  "id": 72, 
+  "marka": "Diesel",
+  "alternatif_isimler": ["diesel", "dizel"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "OTB Group bünyesindedir. Markanın İsrail'deki ticari faaliyetleri ve üst kuruluşun İsrail ekonomisiyle olan finansal bağları nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/diesel-108",
+  "alternatif": "Mavi, LTB, Colin's, Loft",
+  "siddet": "orta"
+},
+{
+  "id": 73, 
+  "marka": "Ted Baker",
+  "alternatif_isimler": ["ted baker"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Authentic Brands Group (ABG) iştirakidir. ABG'nin İsrail ile olan lisans anlaşmaları ve üst yönetimin işgal rejimine yönelik finansal/ideolojik destekleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/ted-baker-1915",
+  "alternatif": "İpekyol, Network, Vakko",
+  "siddet": "orta"
+},
+{
+  "id": 74, 
+  "marka": "Next",
+  "alternatif_isimler": ["next"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: İsrail pazarındaki aktif perakende ağları ve markanın küresel operasyonlarından elde edilen gelirin bir kısmının işgal rejimine ticari destek sağlaması nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/next-1662",
+  "alternatif": "LC Waikiki, Koton, Defacto",
+  "siddet": "orta"
+},
+{
+  "id": 75, 
+  "marka": "Fendi",
+  "alternatif_isimler": ["fendi"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu markasıdır. Üst kuruluşun ve ana hissedarların İsrail merkezli teknoloji ve siber güvenlik sektörlerine yaptığı yatırımlar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/fendi-109",
+  "alternatif": "Vakko, Beymen",
+  "siddet": "yuksek"
+},
+{
+  "id": 76, 
+  "marka": "Eastpak",
+  "alternatif_isimler": ["eastpak", "istpak"],
+  "kategori": "Aksesuar / Çanta",
+  "sebep": "VF Corporation bünyesindedir. Üst şirketin İsrail merkezli üretim ortaklıkları ve yatırımcı portföyündeki Siyonist fonların etkisi nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/eastpak-1343",
+  "alternatif": "Koton, Defacto (Çanta Serileri), Yerli Çanta Markaları",
+  "siddet": "orta"
+},
+{
+  "id": 77, 
+  "marka": "Marc Jacobs",
+  "alternatif_isimler": ["marc jacobs", "mark cekobs"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu iştirakidir. Üst yönetim kademesinin ve grup sermayesinin İsrail ekonomisine ve siber teknoloji şirketlerine sağladığı büyük yatırımlar gerekçesiyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/marc-jacobs-1599",
+  "alternatif": "Vakko, Gön, Tergan",
+  "siddet": "yuksek"
+},
+{
+  "id": 78, 
+  "marka": "DKNY",
+  "alternatif_isimler": ["dkny", "dona karan"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "G-III Apparel Group bünyesindedir. Markanın küresel hissedarlarının İsrail merkezli finansal yapılara desteği ve işgal rejimine sağlanan dolaylı ticari kaynaklar nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/dkny-111",
+  "alternatif": "İpekyol, Network, Sarar",
+  "siddet": "orta"
+},
+{
+  "id": 79, 
+  "marka": "Hublot",
+  "alternatif_isimler": ["hublot", "hüblo"],
+  "kategori": "Aksesuar / Saat",
+  "sebep": "LVMH Grubu markasıdır. LVMH CEO'su Bernard Arnault'un İsrail merkezli şirketlere (Wiz vb.) yaptığı stratejik yatırımlar nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/hublot-657",
+  "alternatif": "Nacar (Yerli Sermaye), Türk Saat Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 80, 
+  "marka": "Victoria Secret",
+  "alternatif_isimler": ["victoria's secret", "viktorya sikret"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "İsrail merkezli Delta Galil firmasının en büyük müşterilerinden biridir. Üretiminin çok büyük bir kısmını bu İsrail firması üzerinden yaparak işgal ekonomisine doğrudan finansman sağlamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/victoria-secret-1957",
+  "alternatif": "Penti, Suwen, Dagi",
+  "siddet": "yuksek"
+},
+{
+  "id": 81, 
+  "marka": "Wilson",
+  "alternatif_isimler": ["wilson", "vilsın"],
+  "kategori": "Spor Ekipmanları",
+  "sebep": "Kısmen Boykot: Amer Sports bünyesindedir. Şirketin küresel yatırımcı portföyü ve İsrail merkezli distribütörleri üzerinden işgal rejimine sağlanan ticari hacim nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/wilson-1986",
+  "alternatif": "Delta, Avessa, Yerli Spor Ekipmanları",
+  "siddet": "orta"
+},
+{
+  "id": 82, 
+  "marka": "Zalando",
+  "alternatif_isimler": ["zalando"],
+  "kategori": "Giyim / Online Perakende",
+  "sebep": "Kısmen Boykot: Ana hissedarlarından Blackrock ve Vanguard gibi Siyonist sermaye gruplarının işgal rejimine ve silah endüstrisine olan desteği nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/zalando-2008",
+  "alternatif": "Trendyol, Hepsiburada, Boyner (Yerli Tedarikçiler)",
+  "siddet": "orta"
+},
+{
+  "id": 83, 
+  "marka": "Kenzo",
+  "alternatif_isimler": ["kenzo"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu iştirakidir. Üst kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve siber güvenlik sektörüne sağladığı sermaye desteği nedeniyle boykot listesinde yer alır.",
+  "kaynak": "https://boykotdedektifi.com/b/kenzo-1497",
+  "alternatif": "Vakko, Arzu Kaprol",
+  "siddet": "yuksek"
+},
+{
+  "id": 84, 
+  "marka": "Delta Galil",
+  "alternatif_isimler": ["delta galil", "delta tekstil"],
+  "kategori": "Giyim / Tekstil Üretimi",
+  "sebep": "İsrail merkezli bir tekstil devidir. Nike, Adidas, Victoria’s Secret gibi dev markalara üretim yapmakta olup, İsrail ekonomisinin ve sanayisinin en büyük güçlerinden biridir. Doğrudan işgalci sermayesidir.",
+  "kaynak": "https://boykotdedektifi.com/b/delta-galil-1332",
+  "alternatif": "Yerli Tekstil Üreticileri",
+  "siddet": "yuksek"
+},
+{
+  "id": 85, 
+  "marka": "Givenchy",
+  "alternatif_isimler": ["givenchy", "jivanşi"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu markasıdır. Grubun ana sermaye sahiplerinin İsrail merkezli teknoloji fonlarına verdiği açık finansal destek nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/givenchy-881",
+  "alternatif": "Vakko, Beymen",
+  "siddet": "yuksek"
+},
+{
+  "id": 86, 
+  "marka": "Benetton",
+  "alternatif_isimler": ["benetton", "united colors of benetton"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Boykot Değil: İtalyan menşeli bir markadır. Mevcut incelemelerde İsrail ile doğrudan işgal yanlısı bir finansal veya operasyonel bağı saptanmadığı için güvenle tercih edilebilir.",
+  "kaynak": "https://boykotdedektifi.com/b/benetton-2643",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 87, 
+  "marka": "American Eagle",
+  "alternatif_isimler": ["american eagle", "amerikan igıl"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "AEO Inc. bünyesindedir. Markanın İsrail'deki geniş mağaza ağı ve üst yönetiminin işgal rejimine yönelik finansal/ideolojik desteği nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/american-eagle-117",
+  "alternatif": "Mavi, LTB, Colin's",
+  "siddet": "yuksek"
+},
+{
+  "id": 88, 
+  "marka": "Aydın Örme",
+  "alternatif_isimler": ["aydın örme"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Boykot Değil: Türkiye merkezli bir üreticidir. İsrail ile herhangi bir boykot gerektirecek bağı bulunmamaktadır. Yerli üretimdir.",
+  "kaynak": "https://boykotdedektifi.com/b/aydin-orme-1102",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 89, 
+  "marka": "Banana Republic",
+  "alternatif_isimler": ["banana republic", "banana repablik"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Gap Inc. bünyesindedir. Üst şirketin İsrail ekonomisindeki aktif rolü ve hissedar yapısındaki Siyonist fonların etkisi nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/banana-republic-115",
+  "alternatif": "Network, Altınyıldız, Bisse",
+  "siddet": "yuksek"
+},
+{
+  "id": 90, 
+  "marka": "Diane",
+  "alternatif_isimler": ["diane", "diane von furstenberg"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "Ahlaken Boykot: Marka kurucusu ve yönetiminin İsrail yanlısı kuruluşlara sağladığı finansal destekler ve Siyonist sermaye gruplarıyla olan yakın ticari ilişkileri nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/diane-1285",
+  "alternatif": "Vakko, Arzu Kaprol, Yerli Tasarımcı Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 91, 
+  "marka": "Gottex",
+  "alternatif_isimler": ["gottex", "gotteks"],
+  "kategori": "Giyim / Mayo",
+  "sebep": "Doğrudan İsrail merkezli bir markadır. İsrail'in en ünlü mayo ve plaj giyim üreticisi olup, ekonomisine doğrudan büyük katkı sağlamaktadır. %100 işgalci sermayesidir.",
+  "kaynak": "https://boykotdedektifi.com/b/gottex-121",
+  "alternatif": "Zeki Triko, Kom, Penti (Mayo Serileri)",
+  "siddet": "yuksek"
+},
+{
+  "id": 92, 
+  "marka": "Silhouette",
+  "alternatif_isimler": ["silhouette", "silüet"],
+  "kategori": "Aksesuar / Gözlük",
+  "sebep": "Ahlaken Boykot: Markanın İsrail'deki aktif distribütörlük ağları ve küresel hissedar yapısındaki Siyonist fonların etkisi nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/silhouette-907",
+  "alternatif": "Kızılay Gözlük (Yerli Cam/Çerçeve Üreticileri), Hawk, Mustang",
+  "siddet": "orta"
+},
+{
+  "id": 93, 
+  "marka": "Loewe",
+  "alternatif_isimler": ["loewe", "löve"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu markasıdır. Grubun ana hissedarı Bernard Arnault'un İsrail merkezli teknoloji ve siber güvenlik şirketlerine (Wiz vb.) yaptığı stratejik yatırımlar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/loewe-1560",
+  "alternatif": "Vakko, Beymen, Tergan",
+  "siddet": "yuksek"
+},
+{
+  "id": 94, 
+  "marka": "FGH",
+  "alternatif_isimler": ["fgh"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Ahlaken Boykot: Şirket yönetiminin İsrail ile olan ticari partnerlikleri ve işgal rejimini destekleyen fonlarla olan finansal bağları nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/fgh-1394",
+  "alternatif": "LC Waikiki, Koton, Defacto",
+  "siddet": "orta"
+},
+{
+  "id": 95, 
+  "marka": "Zenith",
+  "alternatif_isimler": ["zenith"],
+  "kategori": "Aksesuar / Saat",
+  "sebep": "LVMH Grubu iştirakidir. Üst kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve siber güvenlik sektörüne sağladığı sermaye desteği nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/zenith-2009",
+  "alternatif": "Nacar, Türk Saat Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 96, 
+  "marka": "Honigman",
+  "alternatif_isimler": ["honigman", "honigmen"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "İsrail merkezli bir moda perakende markasıdır. Doğrudan İsrail ekonomisine vergi ve istihdam desteği sağlayan bir işgalci sermaye kuruluşudur.",
+  "kaynak": "https://boykotdedektifi.com/b/honigman-123",
+  "alternatif": "Koton, Defacto, LC Waikiki",
+  "siddet": "yuksek"
+},
+{
+  "id": 97, 
+  "marka": "Tag Heuer",
+  "alternatif_isimler": ["tag heuer", "teg hayer"],
+  "kategori": "Aksesuar / Saat",
+  "sebep": "LVMH Grubu bünyesindedir. Grubun sahibi Bernard Arnault'un İsrail siber güvenlik sektörüne (Wiz) yaptığı yatırımlar ve işgal rejimine sağladığı dolaylı finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/tag-heuer-1910",
+  "alternatif": "Quantum, Hislon (Yerli Lisans/Sermaye)",
+  "siddet": "yuksek"
+},
+{
+  "id": 98, 
+  "marka": "Bonprix",
+  "alternatif_isimler": ["bonprix", "bonpri"],
+  "kategori": "Giyim / Online Perakende",
+  "sebep": "Ahlaken Boykot: Otto Group bünyesinde yer almaktadır. Grubun İsrail pazarındaki ticari faaliyetleri ve hissedarlarının Siyonist kuruluşlara sağladığı finansal destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/bonprix-1183",
+  "alternatif": "Trendyol, Modanisa, Sefamerve (Yerli Markalar)",
+  "siddet": "orta"
+},
+{
+  "id": 99, 
+  "marka": "Maison Margiela",
+  "alternatif_isimler": ["maison margiela", "meyzın marjiela"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "OTB Group iştirakidir. Üst kuruluşun İsrail'deki ticari operasyonları ve markanın kurumsal yapısındaki Siyonist sermaye paydaşları nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/maison-margiela-1595",
+  "alternatif": "Vakko, Arzu Kaprol, Hakan Akkaya",
+  "siddet": "orta"
+},
+{
+  "id": 100, 
+  "marka": "Edited",
+  "alternatif_isimler": ["edited", "editid"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Ahlaken Boykot: Otto Group (About You) markasıdır. Üst şirketin İsrail ekonomisine olan ticari katkıları ve bölgedeki lojistik ağları nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/edited-1361",
+  "alternatif": "Addax, Koton, Defacto",
+  "siddet": "orta"
+},
+{
+  "id": 101, 
+  "marka": "Lascana",
+  "alternatif_isimler": ["lascana", "laskana"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "Ahlaken Boykot: Otto Group bünyesindedir. Şirketin İsrail merkezli tedarik zinciri ortaklıkları ve grup sermayesinin işgal rejimine sağladığı dolaylı destekler nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/lascana-1586",
+  "alternatif": "Penti, Suwen, Dagi",
+  "siddet": "orta"
+},
+{
+  "id": 102, 
+  "marka": "Swatch",
+  "alternatif_isimler": ["swatch", "swaç"],
+  "kategori": "Aksesuar / Saat",
+  "sebep": "Boykot Değil: İsviçre merkezli markanın İsrail ile işgal yanlısı doğrudan bir finansal bağı saptanmamıştır. Güvenle tercih edilebilir.",
+  "kaynak": "https://boykotdedektifi.com/b/swatch-saat-2541",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 103, 
+  "marka": "Jack Wolfskin",
+  "alternatif_isimler": ["jack wolfskin", "cek volfskin"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Boykot Değil: Mevcut incelemelerde markanın İsrail ile boykot gerektirecek doğrudan bir ticari veya finansal bağı bulunmamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/jack-wolfskin-2650",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 104, 
+  "marka": "Dior",
+  "alternatif_isimler": ["dior", "christian dior", "diyar"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu markasıdır. LVMH'nin İsrail siber güvenlik sektörü ve girişim sermayelerine yaptığı büyük yatırımlar nedeniyle kesin boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/dior-christian-dior-2066",
+  "alternatif": "Vakko, Beymen",
+  "siddet": "yuksek"
+},
+ {
+  "id": 105, 
+  "marka": "Helline",
+  "alternatif_isimler": ["helline", "heline"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Ahlaken Boykot: Otto Group bünyesinde yer almaktadır. Grubun İsrail pazarındaki ticari faaliyetleri ve hissedarlarının Siyonist kuruluşlara sağladığı finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/helline-1456",
+  "alternatif": "İpekyol, Machka, LC Waikiki",
+  "siddet": "orta"
+},
+{
+  "id": 106, 
+  "marka": "Sheego AG",
+  "alternatif_isimler": ["sheego", "şigo"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Ahlaken Boykot: Otto Group iştirakidir. Üst kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve teknolojik partnerlikleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/sheego-ag-1896",
+  "alternatif": "Faize Sevim, Koton (Plus Size), Defacto",
+  "siddet": "orta"
+},
+{
+  "id": 107, 
+  "marka": "Your Look For Less",
+  "alternatif_isimler": ["your look for less", "yur luk for les"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Ahlaken Boykot: Witt-Gruppe (Otto Group) markasıdır. Şirket sermayesinin İsrail ekonomisine ve işgal rejimini destekleyen fonlara aktarılması gerekçesiyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/your-look-for-less-2007",
+  "alternatif": "Addax, Modanisa, Defacto",
+  "siddet": "orta"
+},
+{
+  "id": 108, 
+  "marka": "Freed Paris",
+  "alternatif_isimler": ["freed paris"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "Ahlaken Boykot: LVMH Grubu ve benzeri Siyonist sermaye yapılarıyla olan dolaylı finansal bağları ve üst yönetim kademesinin İsrail yanlısı tutumu nedeniyle listededir.",
+  "kaynak": "https://boykotdedektifi.com/b/freed-paris-1377",
+  "alternatif": "Vakko, Beymen",
+  "siddet": "orta"
+},
+{
+  "id": 109, 
+  "marka": "El Primero",
+  "alternatif_isimler": ["el primero"],
+  "kategori": "Aksesuar / Saat",
+  "sebep": "LVMH Grubu bünyesindeki Zenith markasına ait bir seridir. Grubun İsrail siber güvenlik ve teknoloji sektörüne yaptığı büyük yatırımlar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/el-primero-1366",
+  "alternatif": "Nacar, Hislon",
+  "siddet": "yuksek"
+},
+{
+  "id": 110, 
+  "marka": "Swimwear365",
+  "alternatif_isimler": ["swimwear365", "swimwear 365"],
+  "kategori": "Giyim / Mayo",
+  "sebep": "Ahlaken Boykot: Otto Group bünyesinde faaliyet göstermektedir. Grubun İsrail ile olan ticari partnerlikleri ve finansal destek mekanizmaları nedeniyle boykot listesinde yer alır.",
+  "kaynak": "https://boykotdedektifi.com/b/swimwear365-1897",
+  "alternatif": "Zeki Triko, Kom, Penti",
+  "siddet": "orta"
+},
+{
+  "id": 111, 
+  "marka": "Wolford",
+  "alternatif_isimler": ["wolford", "volford"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "Lanvin Group iştirakidir. Markanın hissedar yapısı ve küresel operasyonlarından elde edilen gelirin İsrail merkezli finansal kuruluşlara destek sağladığı gerekçesiyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/wolford-1989",
+  "alternatif": "Penti, Suwen, Dagi",
+  "siddet": "orta"
+},
+{
+  "id": 112, 
+  "marka": "OSP",
+  "alternatif_isimler": ["osp", "otto shared services"],
+  "kategori": "Lojistik / Hizmet",
+  "sebep": "Ahlaken Boykot: Otto Group'un bir alt hizmet kuruluşudur. Üst kuruluşun İsrail ekonomisindeki aktif ticari rolleri nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/osp-1697",
+  "alternatif": "Yerli Lojistik Firmaları",
+  "siddet": "orta"
+},
+{
+  "id": 113, 
+  "marka": "Bosideng",
+  "alternatif_isimler": ["bosideng", "bosideng london"],
+  "kategori": "Giyim / Dış Giyim",
+  "sebep": "Boykot Değil: Çin merkezli markanın İsrail ile işgal yanlısı doğrudan bir bağı saptanmamıştır. Güvenle tercih edilebilir.",
+  "kaynak": "https://boykotdedektifi.com/b/bosideng-2140",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 114, 
+  "marka": "Sieh An!",
+  "alternatif_isimler": ["sieh an", "si an"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Ahlaken Boykot: Witt-Gruppe (Otto Group) bünyesindedir. Grubun İsrail merkezli teknoloji fonlarına verdiği finansal destek nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/sieh-an-1862",
+  "alternatif": "Koton, Defacto, LC Waikiki",
+  "siddet": "orta"
+},
+{
+  "id": 115, 
+  "marka": "Pandora",
+  "alternatif_isimler": ["pandora"],
+  "kategori": "Aksesuar / Takı",
+  "sebep": "İsrail'de geniş bir satış ağına sahip olması ve markanın yatırımcı portföyündeki Siyonist fonların işgal rejimine sağladığı dolaylı finansal destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/pandora-2775",
+  "alternatif": "Altınbaş, Atasay, So Chic",
+  "siddet": "yuksek"
+},
+{
+  "id": 116, 
+  "marka": "So Chic",
+  "alternatif_isimler": ["so chic", "so şik"],
+  "kategori": "Aksesuar / Takı",
+  "sebep": "Boykot Değil: Türkiye merkezli yerli sermayeli bir markadır. İsrail ile herhangi bir bağı bulunmamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/so-chic-2780",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 117, 
+  "marka": "Swarovski",
+  "alternatif_isimler": ["swarovski", "suvarovski"],
+  "kategori": "Aksesuar / Takı",
+  "sebep": "İsrail'deki operasyonel faaliyetleri ve markanın üst yönetim kademesinin İsrail merkezli kuruluşlara sağladığı finansal/kültürel destekler nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/swarovski-2779",
+  "alternatif": "Altınbaş, Atasay, Yerli Gümüşçüler",
+  "siddet": "yuksek"
+},
+{
+  "id": 118, 
+  "marka": "Dolce & Gabbana",
+  "alternatif_isimler": ["dolce & gabbana", "dolce gabbana", "d&g"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "İsrail pazarındaki aktif ticari varlığı ve markanın hissedar yapısındaki Siyonist fonların işgal ekonomisine sağladığı dolaylı destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/dolce-gabbana-2781",
+  "alternatif": "Vakko, Sarar",
+  "siddet": "orta"
+},
+{
+  "id": 119, 
+  "id": 119, 
+  "marka": "5.11 Tactical",
+  "alternatif_isimler": ["5.11", "five eleven"],
+  "kategori": "Giyim / Askeri / Outdoor",
+  "sebep": "İsrail güvenlik güçleri ve ordusu ile olan tedarik/ekipman ilişkileri ve markanın işgal rejimine yönelik teknolojik desteği nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/5.11-tactical-2668",
+  "alternatif": "Yerli Taktik/Outdoor Markaları, Vogel",
+  "siddet": "yuksek"
+},
+{
+  "id": 120, 
+  "marka": "Coach",
+  "alternatif_isimler": ["coach", "koç çanta"],
+  "kategori": "Aksesuar / Çanta",
+  "sebep": "Tapestry Inc. bünyesindedir. Üst kuruluşun İsrail merkezli yatırım ortaklıkları ve markanın işgal ekonomisine sağladığı ticari hacim nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/coach-2830",
+  "alternatif": "Tergan, Gön, Vakko",
+  "siddet": "orta"
+},
+{
+  "id": 121, 
+  "marka": "& Other Stories",
+  "alternatif_isimler": ["other stories", "ander storis"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "H&M Group bünyesinde yer almaktadır. Grubun İsrail'deki geniş mağaza ağı ve işgal rejimine sağlanan ciddi vergi/ticaret katkısı nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/other-stories-2693",
+  "alternatif": "İpekyol, Twist, Koton",
+  "siddet": "yuksek"
+},
+{
+  "id": 122, 
+  "marka": "Dickies",
+  "alternatif_isimler": ["dickies", "dikis"],
+  "kategori": "Giyim / İş Giyim",
+  "sebep": "VF Corporation iştirakidir. Üst şirketin İsrail merkezli üretim tesisleri ve hissedar portföyündeki Siyonist fonların etkisi nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/dickies-2751",
+  "alternatif": "Lumberjack, Yerli İş Giyim Markaları",
+  "siddet": "orta"
+},
+{
+  "id": 123, 
+  "marka": "Weekday",
+  "alternatif_isimler": ["weekday", "vikdey"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "H&M Group markasıdır. Grubun İsrail ekonomisindeki aktif rolü ve tartışmalı siyasi/finansal duruşu nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/weekday-2695",
+  "alternatif": "Loft, LTB, Colin's",
+  "siddet": "yuksek"
+},
+{
+  "id": 124, 
+  "marka": "Napapijri",
+  "alternatif_isimler": ["napapijri", "napapiri"],
+  "kategori": "Giyim / Dış Giyim",
+  "sebep": "VF Corporation bünyesindedir. Şirketin İsrail merkezli üretim ortaklıkları ve işgal ekonomisine sağladığı dolaylı finansman nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/napapijri-2750",
+  "alternatif": "Lumberjack Outdoor, Koton",
+  "siddet": "orta"
+},
+{
+  "id": 125, 
+  "marka": "Arket",
+  "alternatif_isimler": ["arket"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "H&M Group iştirakidir. Üst kuruluşun İsrail'deki ticari operasyonları ve işgal rejimine sağladığı finansal destek kanalları nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/arket-2692",
+  "alternatif": "Network, Altınyıldız, LC Waikiki",
+  "siddet": "yuksek"
+},
+{
+  "id": 126, 
+  "marka": "Kipling",
+  "alternatif_isimler": ["kipling"],
+  "kategori": "Aksesuar / Çanta",
+  "sebep": "VF Corporation bünyesindedir. Üst şirketin İsrail ekonomisine ve sanayisine sağladığı dolaylı üretim ve finansal ortaklıklar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/kipling-2749",
+  "alternatif": "Addax, Koton (Çanta), Yerli Markalar",
+  "siddet": "orta"
+},
+{
+  "id": 127, 
+  "marka": "Cheap Monday",
+  "alternatif_isimler": ["cheap monday", "çip mandey"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "H&M Group markasıdır. Grubun İsrail pazarındaki faaliyetleri ve sermaye yapısının işgal rejimine sağladığı dolaylı destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/cheap-monday-2696",
+  "alternatif": "Addax, Koton, Defacto",
+  "siddet": "yuksek"
+},
+{
+  "id": 128, 
+  "marka": "JanSport",
+  "alternatif_isimler": ["jansport", "censport"],
+  "kategori": "Aksesuar / Çanta",
+  "sebep": "VF Corporation bünyesinde yer almaktadır. Üst yönetimin İsrail merkezli kurumlarla olan bağları ve şirketin Siyonist sermaye ortaklıkları nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/jansport-2752",
+  "alternatif": "Koton, Defacto, Yerli Çanta Markaları",
+  "siddet": "orta"
+},
+{
+  "id": 129, 
+  "marka": "Furla",
+  "alternatif_isimler": ["furla"],
+  "kategori": "Aksesuar / Lüks",
+  "sebep": "Ahlaken Boykot: Markanın İsrail merkezli perakende ortaklıkları ve hissedar yapısındaki dolaylı finansal destek kanalları nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/furla-2829",
+  "alternatif": "Vakko, Gön, Tergan",
+  "siddet": "orta"
+},
+{
+  "id": 130, 
+  "marka": "Monki",
+  "alternatif_isimler": ["monki"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "H&M Group iştirakidir. Grubun İsrail ekonomisindeki aktif ticari operasyonları ve işgal rejimine sağladığı vergi katkısı nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/monki-2694",
+  "alternatif": "Addax, Koton, Defacto",
+  "siddet": "yuksek"
+},
+{
+  "id": 131, 
+  "marka": "Anta",
+  "alternatif_isimler": ["anta"],
+  "kategori": "Giyim / Spor",
+  "sebep": "Boykot Değil: Çin merkezli markanın İsrail ile işgal yanlısı doğrudan bir bağı bulunmamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/anta-2905",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 132, 
+  "marka": "Brooks",
+  "alternatif_isimler": ["brooks", "bruks"],
+  "kategori": "Giyim / Ayakkabı",
+  "sebep": "Berkshire Hathaway iştirakidir. Üst kuruluşun İsrail ekonomisindeki büyük yatırımları ve işgal rejimine sağladığı finansal güç nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/brooks-2921",
+  "alternatif": "Lescon, Kinetix, Jump",
+  "siddet": "orta"
+},
+{
+  "id": 133, 
+  "marka": "G-Star",
+  "alternatif_isimler": ["g-star", "gstar", "gi star"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Markanın İsrail'deki ticari faaliyetleri ve hissedar yapısındaki Siyonist fonların işgal rejimine sağladığı dolaylı finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/g-star-2892",
+  "alternatif": "Mavi, LTB, Colin's",
+  "siddet": "orta"
+},
+{
+  "id": 134, 
+  "marka": "Brooks Brothers",
+  "alternatif_isimler": ["brooks brothers", "bruks bradır"],
+  "kategori": "Giyim / Tekstil",
+  "sebep": "Kısmen Boykot: Authentic Brands Group (ABG) bünyesindedir. Üst kuruluşun İsrail ile olan lisans anlaşmaları ve yönetim kademesinin işgal rejimine yönelik dolaylı finansal destekleri nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/brooks-brothers-2922",
+  "alternatif": "Kiğılı, Altınyıldız, Sarar",
+  "siddet": "orta"
+},
+{
+  "id": 135, 
+  "marka": "Discovery Expedition",
+  "alternatif_isimler": ["discovery expedition", "diskavri"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Ahlaken Boykot: Markanın lisans sahibi olan Discovery Inc. (Warner Bros. Discovery) grubunun İsrail ekonomisindeki yatırımları ve işgal rejimini destekleyen medya/sermaye politikaları nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/discovery-expedition-2944",
+  "alternatif": "Lumberjack, Greyder, Scooter",
+  "siddet": "orta"
+},
+{
+  "id": 136, 
+  "marka": "EssilorLuxottica",
+  "alternatif_isimler": ["essilorluxottica", "essilor", "luxottica"],
+  "kategori": "Aksesuar / Optik",
+  "sebep": "İsrail merkezli Shamir Optical şirketinin hisselerini satın alarak işgal ekonomisine doğrudan yatırım yapmıştır. Ayrıca Atasun Optik gibi markaların çatı şirketi olup İsrail ekonomisiyle güçlü finansal bağları bulunmaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/essilorluxottica-2954",
+  "alternatif": "Yerli Optik Mağazaları, Yerli Gözlük Camı Üreticileri",
+  "siddet": "yuksek"
+},
+{
+  "id": 137, 
+  "marka": "Celine",
+  "alternatif_isimler": ["celine", "selin"],
+  "kategori": "Giyim / Lüks",
+  "sebep": "LVMH Grubu markasıdır. Grubun ana hissedarı olan Arnault ailesinin İsrail merkezli teknoloji ve siber güvenlik şirketlerine yaptığı devasa yatırımlar nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/celine-2928",
+  "alternatif": "Vakko, Arzu Kaprol",
+  "siddet": "yuksek"
+},
+{
+  "id": 138, 
+  "marka": "Bonita de Mas",
+  "alternatif_isimler": ["bonita de mas"],
+  "kategori": "Giyim / İç Giyim",
+  "sebep": "Doğrudan İsrail merkezli bir markadır. İsrail'in en büyük iç giyim perakendecilerinden biri olup, vergi ve istihdam kanalıyla işgal ekonomisine doğrudan güç sağlamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/bonita-de-mas-2891",
+  "alternatif": "Penti, Suwen, Dagi",
+  "siddet": "yuksek"
+},
+{
+  "id": 139, 
+  "marka": "Magnolia",
+  "alternatif_isimler": ["magnolia", "magnolia gümüş"],
+  "kategori": "Aksesuar / Takı",
+  "sebep": "İsrail merkezli bir takı markasıdır. İsrail sermayesiyle kurulan ve faaliyet gösteren bir şirket olması nedeniyle kesin boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/magnolia-2894",
+  "alternatif": "So Chic, Altınbaş, Atasay",
+  "siddet": "yuksek"
+},
+{
+  "id": 140, 
+  "marka": "Vardinon",
+  "alternatif_isimler": ["vardinon"],
+  "kategori": "Ev Tekstili",
+  "sebep": "İsrail merkezli bir ev tekstili markasıdır. Doğrudan işgalci sermaye ürünü olması ve İsrail sanayisinin bir parçası olması nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/vardinon-2896",
+  "alternatif": "Özdilek, Karaca Home, English Home",
+  "siddet": "yuksek"
+},
+{
+  "id": 141, 
+  "marka": "Kate Spade",
+  "alternatif_isimler": ["kate spade", "keyt speyd"],
+  "kategori": "Aksesuar / Lüks",
+  "sebep": "Kısmen Boykot: Tapestry Inc. bünyesinde yer almaktadır. Üst yönetimin ve sermaye sahiplerinin İsrail merkezli kurumlara sağladığı dolaylı finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/kate-spade-2931",
+  "alternatif": "Gön, Tergan, Vakko",
+  "siddet": "orta"
+},
+{
+  "id": 142, 
+  "marka": "Armada Skis",
+  "alternatif_isimler": ["armada skis", "armada"],
+  "kategori": "Spor Ekipmanları",
+  "sebep": "Kısmen Boykot: Amer Sports bünyesindedir. Markanın küresel yatırımcı portföyündeki Siyonist fonların etkisi ve İsrail pazarındaki ticari operasyonları nedeniyle boykot listesinde yer alır.",
+  "kaynak": "https://boykotdedektifi.com/b/armada-skis-2978",
+  "alternatif": "Yerli Spor Malzemeleri",
+  "siddet": "orta"
+},
+{
+  "id": 143, 
+  "marka": "Peak Performance",
+  "alternatif_isimler": ["peak performance", "pik performans"],
+  "kategori": "Giyim / Outdoor",
+  "sebep": "Ahlaken Boykot: Amer Sports iştirakidir. Şirketin üst yönetim kademesinin İsrail ile olan ticari partnerlikleri ve işgal rejimine sağlanan dolaylı finansal destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/peak-performance-2979",
+  "alternatif": "Lumberjack, Greyder Outdoor",
+  "siddet": "orta"
+}    
   ]
 }
