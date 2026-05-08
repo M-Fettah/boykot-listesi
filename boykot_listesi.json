@@ -1432,6 +1432,1016 @@
   "kaynak": "https://boykotdedektifi.com/b/peak-performance-2979",
   "alternatif": "Lumberjack, Greyder Outdoor",
   "siddet": "orta"
-}    
+},
+{
+  "id": 144, 
+  "marka": "Lipton",
+  "alternatif_isimler": ["lipton", "liptın"],
+  "kategori": "İçecek / Çay",
+  "sebep": "Unilever (veya yeni adıyla Ekaterra) bünyesindedir. Unilever'in İsrail'deki yasa dışı yerleşim birimlerinde üretim yapması ve işgal ekonomisine sağladığı devasa finansal destekler nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/lipton-19",
+  "alternatif": "Çaykur, Doğuş Çay, Tirebolu 42, Beta Tea",
+  "siddet": "yuksek"
+},
+{
+  "id": 145, 
+  "marka": "Fuse Tea",
+  "alternatif_isimler": ["fuse tea", "füze çay", "fuzetea"],
+  "kategori": "İçecek / Soğuk Çay",
+  "sebep": "The Coca-Cola Company markasıdır. Coca-Cola'nın İsrail'deki işgal altındaki topraklarda (Atarot) fabrikasının bulunması ve işgal rejimine sağladığı doğrudan ekonomik destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/fuse-tea-226",
+  "alternatif": "Didi, Niğde Bor (Soğuk Çay), Torku",
+  "siddet": "yuksek"
+},
+{
+  "id": 146, 
+  "marka": "Cappy",
+  "alternatif_isimler": ["cappy", "kapi", "kappi"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "The Coca-Cola Company bünyesindedir. Üst kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve işgal rejimine sağladığı finansal güç nedeniyle kesin boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/cappy-224",
+  "alternatif": "Torku, Meysu, Aroma, Juss, Pınar",
+  "siddet": "yuksek"
+},
+{
+  "id": 147, 
+  "marka": "Ice Tea",
+  "alternatif_isimler": ["ice tea", "ays ti", "lipton ice tea"],
+  "kategori": "İçecek / Soğuk Çay",
+  "sebep": "PepsiCo ve Unilever ortaklığıyla üretilmektedir. Her iki şirketin de İsrail ile olan derin ticari bağları ve işgal rejimine sağladıkları finansal kaynaklar nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/ice-tea-359",
+  "alternatif": "Didi, Niğde Bor, Torku",
+  "siddet": "yuksek"
+},
+{
+  "id": 148, 
+  "marka": "Akmina Maden Suyu",
+  "alternatif_isimler": ["akmina", "akmina maden suyu"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "Danone bünyesindedir. Danone'nin İsrail merkezli Strauss Group ile olan ortaklığı ve İsrail ekonomisine sağladığı doğrudan yatırım ve sermaye desteği nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/akmina-maden-suyu-240",
+  "alternatif": "Kızılay, Beypazarı, Sarıkız, Uludağ",
+  "siddet": "yuksek"
+},
+{
+  "id": 149, 
+  "marka": "Tropicana",
+  "alternatif_isimler": ["tropicana", "tropikana"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "PepsiCo markasıdır. PepsiCo'nun İsrail merkezli SodaStream firmasının sahibi olması ve işgal rejimine sağladığı doğrudan vergi/yatırım desteği nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/tropicana-233",
+  "alternatif": "Torku, Meysu, Aroma",
+  "siddet": "yuksek"
+},
+{
+  "id": 150, 
+  "marka": "Bravo",
+  "alternatif_isimler": ["bravo", "bravo meyve suyu"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Ahlaken Boykot: Rauch Fruchtsäfte bünyesindedir. Şirketin İsrail merkezli perakende ortaklıkları ve markanın bölgedeki ticari operasyonları üzerinden işgal ekonomisine sağladığı dolaylı destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/bravo-1173",
+  "alternatif": "Meysu, Aroma, Pınar",
+  "siddet": "orta"
+},
+{
+  "id": 151, 
+  "marka": "Damla",
+  "alternatif_isimler": ["damla su"],
+  "kategori": "İçecek / Su",
+  "sebep": "The Coca-Cola Company bünyesindedir. Coca-Cola'nın İsrail ekonomisindeki ağırlığı ve işgal rejimine sağladığı sistemik finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/damla-229",
+  "alternatif": "Hamidiye, Munzur, Fuska, Sakaka",
+  "siddet": "yuksek"
+},
+{
+  "id": 152, 
+  "marka": "Doğadan",
+  "alternatif_isimler": ["doğadan", "doğadan çay"],
+  "kategori": "İçecek / Çay",
+  "sebep": "2007 yılından bu yana The Coca-Cola Company bünyesindedir. Coca-Cola'nın mülkiyetinde olması ve grubun İsrail ile olan finansal ortaklıkları nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/dogadan-1289",
+  "alternatif": "Çaykur, Tirebolu 42, Doğuş Çay",
+  "siddet": "yuksek"
+},
+{
+  "id": 153, 
+  "marka": "Damla Maden Suyu",
+  "alternatif_isimler": ["damla maden suyu"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "The Coca-Cola Company iştirakidir. Üst kuruluşun işgal rejimine ve ekonomisine sağladığı kurumsal finansman ve üretim ortaklıkları nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/damla-maden-suyu-236",
+  "alternatif": "Kızılay, Beypazarı, Kınık",
+  "siddet": "yuksek"
+},
+{
+  "id": 154, 
+  "marka": "Akmina",
+  "alternatif_isimler": ["akmina"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "Danone markasıdır. Danone grubunun İsrail'deki Strauss Group ortaklığı ve işgal rejimine sağladığı doğrudan/dolaylı sermaye akışı nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/akmina-231",
+  "alternatif": "Kızılay, Beypazarı, Uludağ",
+  "siddet": "yuksek"
+},
+{
+  "id": 155, 
+  "marka": "Tang",
+  "alternatif_isimler": ["tang"],
+  "kategori": "İçecek / Toz İçecek",
+  "sebep": "Mondelēz International bünyesindedir. Mondelēz'in İsrail merkezli gıda teknolojisi girişimlerine yaptığı yatırımlar ve işgal rejimine sağladığı ticari destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/tang-423",
+  "alternatif": "Yerli toz içecek markaları, Kent On6",
+  "siddet": "yuksek"
+},
+{
+  "id": 156, 
+  "marka": "Dr. Pepper",
+  "alternatif_isimler": ["dr pepper", "doktor pepper"],
+  "kategori": "İçecek / Gazlı İçecek",
+  "sebep": "Keurig Dr Pepper bünyesinde olup, dağıtımı genellikle PepsiCo ve Coca-Cola üzerinden yapılmaktadır. Siyonist sermaye gruplarının hissedarlık yapısındaki etkisi nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/dr-pepper-242",
+  "alternatif": "Niğde Gazozu, Uludağ Gazoz, Torku Gazoz",
+  "siddet": "yuksek"
+},
+{
+  "id": 157, 
+  "marka": "Fresc",
+  "alternatif_isimler": ["fresc"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Ahlaken Boykot: Rauch bünyesindedir. Şirketin İsrail pazarı ile olan ticari ilişkileri ve küresel sermaye yapısının işgal rejimine sağladığı dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/fresc-901",
+  "alternatif": "Meysu, Aroma",
+  "siddet": "orta"
+},
+{
+  "id": 158, 
+  "marka": "7UP",
+  "alternatif_isimler": ["sevenup", "7 up"],
+  "kategori": "İçecek / Gazlı İçecek",
+  "sebep": "PepsiCo bünyesindedir. PepsiCo'nun İsrail ekonomisine olan doğrudan yatırımları ve SodaStream sahipliği nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/sevenup-412",
+  "alternatif": "Uludağ Gazoz, Niğde Gazozu, Beypazarı Gazoz",
+  "siddet": "yuksek"
+},
+{
+  "id": 159, 
+  "marka": "Damla Minera",
+  "alternatif_isimler": ["damla minera"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "The Coca-Cola Company iştirakidir. Üst kuruluşun İsrail ekonomisine ve işgal politikalarına verdiği sistemik finansal destek nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/damla-minera-384",
+  "alternatif": "Kızılay, Beypazarı, Kınık",
+  "siddet": "yuksek"
+},
+{
+  "id": 160, 
+  "marka": "Nestea",
+  "alternatif_isimler": ["nestea", "nes ti"],
+  "kategori": "İçecek / Soğuk Çay",
+  "sebep": "Nestlé bünyesindedir. Nestlé'nin İsrailli Osem Investments şirketinin sahibi olması ve işgal topraklarındaki Ar-Ge merkezleri nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/nestea-452",
+  "alternatif": "Didi, Niğde Bor",
+  "siddet": "yuksek"
+},
+{
+  "id": 161, 
+  "marka": "Actimel",
+  "alternatif_isimler": ["actimel", "aktimel"],
+  "kategori": "İçecek / Probiyotik",
+  "sebep": "Danone markasıdır. Danone'nin İsrail'deki Strauss Group ile stratejik ortaklığı ve işgal rejimine sağladığı finansal/teknolojik destekler nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/actimel-470",
+  "alternatif": "Altınkılıç, İçim Rahat",
+  "siddet": "yuksek"
+},
+{
+  "id": 162, 
+  "marka": "Fuze Tea",
+  "alternatif_isimler": ["fuze tea", "füze çay", "fuzetea"],
+  "kategori": "İçecek / Soğuk Çay",
+  "sebep": "The Coca-Cola Company markasıdır. Coca-Cola'nın İsrail ekonomisine olan doğrudan desteği ve işgal altındaki topraklardaki faaliyetleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/fuze-tea-1382",
+  "alternatif": "Didi, Niğde Bor",
+  "siddet": "yuksek"
+},
+{
+  "id": 163, 
+  "marka": "Lattella",
+  "alternatif_isimler": ["lattella"],
+  "kategori": "İçecek / Sütlü İçecek",
+  "sebep": "Ahlaken Boykot: Üretici firmanın İsrail ile olan ticari bağları ve Siyonist sermaye gruplarının markadaki dolaylı finansal etkileri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/lattella-498",
+  "alternatif": "İçim, Pınar",
+  "siddet": "orta"
+},
+{
+  "id": 164, 
+  "marka": "Gatorade",
+  "alternatif_isimler": ["gatorade", "geytoreyd"],
+  "kategori": "İçecek / Sporcu İçeceği",
+  "sebep": "PepsiCo bünyesindedir. PepsiCo'nun İsrail'deki SodaStream yatırımı ve işgal rejimine sağladığı doğrudan vergi katkısı nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/gatorade-497",
+  "alternatif": "4000 (Yerli İçecek), Su/Doğal Maden Suyu",
+  "siddet": "yuksek"
+},
+{
+  "id": 165, 
+  "marka": "Hawai Tropical",
+  "alternatif_isimler": ["hawai tropical"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Coca-Cola bünyesindedir. Markanın bağlı olduğu ana grubun İsrail ekonomisindeki ağırlığı ve işgal rejimine sağladığı sistemik finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/hawai-tropical-1449",
+  "alternatif": "Meysu, Aroma",
+  "siddet": "yuksek"
+},
+{
+  "id": 166, 
+  "marka": "Badoit",
+  "alternatif_isimler": ["badoit"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "Danone bünyesindedir. Danone'nin İsrail'deki sermaye ortaklıkları ve işgal rejimine sağladığı finansal kaynaklar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/badoit-484",
+  "alternatif": "Kızılay, Beypazarı",
+  "siddet": "yuksek"
+},
+{
+  "id": 167, 
+  "marka": "Tropico",
+  "alternatif_isimler": ["tropico"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Coca-Cola bünyesindedir. Üst kuruluşun işgal rejimine sağladığı finansal güç ve İsrail sanayisindeki üretim ortaklıkları nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/tropico-1944",
+  "alternatif": "Juss, Torku",
+  "siddet": "yuksek"
+},
+{
+  "id": 168, 
+  "marka": "Sobe",
+  "alternatif_isimler": ["sobe"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "PepsiCo iştirakidir. PepsiCo'nun İsrail ekonomisindeki aktif rolü ve Siyonist sermaye gruplarının hissedarlık yapısındaki etkisi.",
+  "kaynak": "https://boykotdedektifi.com/b/sobe-491",
+  "alternatif": "Aroma, Pınar",
+  "siddet": "yuksek"
+},
+{
+  "id": 169, 
+  "marka": "Kinley",
+  "alternatif_isimler": ["kinley tonik"],
+  "kategori": "İçecek / Tonik",
+  "sebep": "The Coca-Cola Company bünyesindedir. Coca-Cola'nın İsrail pazarındaki hakimiyeti ve işgal rejimine sağladığı doğrudan vergi/yatırım desteği.",
+  "kaynak": "https://boykotdedektifi.com/b/kinley-1532",
+  "alternatif": "Yerli Tonik Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 170, 
+  "marka": "Hohes C",
+  "alternatif_isimler": ["hohes c"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Kısmen Boykot: Eckes-Granini Group bünyesindedir. Markanın İsrail merkezli perakende ağları üzerinden sağladığı ticari hacim ve dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/hohes-c-1437",
+  "alternatif": "Torku, Pınar",
+  "siddet": "orta"
+},
+{
+  "id": 171, 
+  "marka": "Honest",
+  "alternatif_isimler": ["honest tea"],
+  "kategori": "İçecek / Soğuk Çay",
+  "sebep": "The Coca-Cola Company iştirakidir. Üst kuruluşun İsrail'deki yasa dışı yerleşim bölgelerinde faaliyet göstermesi ve işgal ekonomisine sağladığı destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/honest-1450",
+  "alternatif": "Didi, Yerli Bitki Çayları",
+  "siddet": "yuksek"
+},
+{
+  "id": 172, 
+  "marka": "Adez",
+  "alternatif_isimler": ["adez"],
+  "kategori": "İçecek / Bitkisel Süt",
+  "sebep": "The Coca-Cola Company bünyesindedir. Coca-Cola'nın İsrail ile olan güçlü finansal bağları ve işgal rejimine sağladığı sermaye desteği nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/adez-1076",
+  "alternatif": "Nilky, Torku (Bitkisel Sütler)",
+  "siddet": "yuksek"
+},
+{
+  "id": 173, 
+  "marka": "Bonaqua",
+  "alternatif_isimler": ["bonaqua"],
+  "kategori": "İçecek / Su",
+  "sebep": "The Coca-Cola Company markasıdır. Ana grubun İsrail ekonomisine ve işgal rejimine sağladığı doğrudan vergi ve yatırım katkısı.",
+  "kaynak": "https://boykotdedektifi.com/b/bonaqua-1156",
+  "alternatif": "Munzur, Fuska",
+  "siddet": "yuksek"
+},
+{
+  "id": 174, 
+  "marka": "Liquid I.V.",
+  "alternatif_isimler": ["liquid i.v.", "likid iv"],
+  "kategori": "İçecek / Takviye",
+  "sebep": "Unilever bünyesindedir. Unilever'in İsrail'deki işgal topraklarındaki üretim faaliyetleri ve işgal rejimine sağladığı finansal güç nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/liquid-i.v.-1582",
+  "alternatif": "Yerli Takviye Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 175, 
+  "marka": "Zico",
+  "alternatif_isimler": ["zico hindistan cevizi suyu"],
+  "kategori": "İçecek / Hindistan Cevizi Suyu",
+  "sebep": "The Coca-Cola Company iştirakidir. Üst kuruluşun İsrail ekonomisindeki baskınlığı ve işgal rejimine sağladığı sistemik finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/zico-2017",
+  "alternatif": "Yerli Hindistan Cevizi Suları",
+  "siddet": "yuksek"
+},
+{
+  "id": 176, 
+  "marka": "Chaudfontaine",
+  "alternatif_isimler": ["chaudfontaine"],
+  "kategori": "İçecek / Su",
+  "sebep": "The Coca-Cola Company bünyesindedir. Coca-Cola'nın işgal altındaki topraklardaki operasyonları ve İsrail ekonomisine sağladığı doğrudan destek nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/chaudfontaine-1261",
+  "alternatif": "Hamidiye, Fuska",
+  "siddet": "yuksek"
+},
+{
+  "id": 177, 
+  "marka": "Minute Maid",
+  "alternatif_isimler": ["minute maid"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "The Coca-Cola Company markasıdır. Üst kuruluşun İsrail pazarındaki aktif varlığı ve işgal rejimine sağladığı finansal/operasyonel destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/minute-maid-1645",
+  "alternatif": "Torku, Aroma",
+  "siddet": "yuksek"
+},
+{
+  "id": 178, 
+  "marka": "Naked Juice",
+  "alternatif_isimler": ["naked juice"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "PepsiCo bünyesindedir. PepsiCo'nun İsrail'deki doğrudan yatırımları ve SodaStream sahipliği üzerinden işgal ekonomisine sağladığı katkı.",
+  "kaynak": "https://boykotdedektifi.com/b/naked-juice-1666",
+  "alternatif": "Aroma, Pınar",
+  "siddet": "yuksek"
+},
+{
+  "id": 179, 
+  "marka": "Ciao",
+  "alternatif_isimler": ["ciao meyve suyu"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Ahlaken Boykot: Üretici grubun İsrail ile olan ticari partnerlikleri ve markanın küresel sermaye yapısındaki Siyonist fonların dolaylı etkisi.",
+  "kaynak": "https://boykotdedektifi.com/b/ciao-1262",
+  "alternatif": "Meysu, Juss",
+  "siddet": "orta"
+},
+{
+  "id": 180, 
+  "marka": "Innocent",
+  "alternatif_isimler": ["innocent"],
+  "kategori": "İçecek / Smoothie",
+  "sebep": "The Coca-Cola Company iştirakidir. Üst kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve işgal rejimine sağladığı sistemik finansal güç.",
+  "kaynak": "https://boykotdedektifi.com/b/innocent-1470",
+  "alternatif": "Torku, Yerli Meyve Suları",
+  "siddet": "yuksek"
+},
+{
+  "id": 181, 
+  "marka": "Punica Säfte",
+  "alternatif_isimler": ["punica"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "PepsiCo bünyesindedir. PepsiCo'nun İsrail ekonomisine sağladığı doğrudan yatırımlar ve SodaStream sahipliği nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/punica-s-fte-1741",
+  "alternatif": "Torku, Meysu",
+  "siddet": "yuksek"
+},
+{
+  "id": 182, 
+  "marka": "Muscle Milk",
+  "alternatif_isimler": ["muscle milk"],
+  "kategori": "İçecek / Protein İçeceği",
+  "sebep": "PepsiCo bünyesindedir. PepsiCo'nun İsrail ekonomisindeki aktif yatırımcı rolü ve işgal rejimine sağladığı vergi katkısı.",
+  "kaynak": "https://boykotdedektifi.com/b/muscle-milk-1632",
+  "alternatif": "Züber, Hardline (Yerli Üretimler)",
+  "siddet": "yuksek"
+},
+{
+  "id": 183, 
+  "marka": "Apollinaris",
+  "alternatif_isimler": ["apollinaris"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "The Coca-Cola Company bünyesindedir. Ana grubun İsrail ekonomisine ve işgal politikalarına verdiği sistemik finansal destek.",
+  "kaynak": "https://boykotdedektifi.com/b/apollinaris-1105",
+  "alternatif": "Beypazarı, Kızılay",
+  "siddet": "yuksek"
+},
+{
+  "id": 184, 
+  "marka": "Kevita",
+  "alternatif_isimler": ["kevita"],
+  "kategori": "İçecek / Kombucha",
+  "sebep": "PepsiCo iştirakidir. PepsiCo'nun İsrail merkezli SodaStream sahipliği ve işgal ekonomisine sağladığı doğrudan sermaye desteği.",
+  "kaynak": "https://boykotdedektifi.com/b/kevita-1499",
+  "alternatif": "Yerli Kombucha Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 185, 
+  "marka": "Vaalia",
+  "alternatif_isimler": ["vaalia"],
+  "kategori": "İçecek / Probiyotik",
+  "sebep": "Ahlaken Boykot: Üst kuruluşun İsrail pazarındaki ticari operasyonları ve Siyonist sermaye gruplarının markadaki dolaylı finansal etkileri.",
+  "kaynak": "https://boykotdedektifi.com/b/vaalia-1971",
+  "alternatif": "Altınkılıç, İçim",
+  "siddet": "orta"
+},
+{
+  "id": 186, 
+  "marka": "Santal",
+  "alternatif_isimler": ["santal meyve suyu"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "Ahlaken Boykot: Parmalat (Lactalis) bünyesindedir. Grubun İsrail merkezli perakende ağları ve işgal ekonomisine sağladığı dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/santal-1884",
+  "alternatif": "Torku, Meysu",
+  "siddet": "orta"
+},
+{
+  "id": 187, 
+  "marka": "Horlicks",
+  "alternatif_isimler": ["horlicks"],
+  "kategori": "İçecek / Besleyici İçecek",
+  "sebep": "Unilever bünyesindedir. Unilever'in İsrail'deki yasa dışı yerleşim bölgelerindeki üretim faaliyetleri ve işgal rejimine sağladığı finansal kaynaklar.",
+  "kaynak": "https://boykotdedektifi.com/b/horlicks-1439",
+  "alternatif": "Yerli Sütlü Karışımlar",
+  "siddet": "yuksek"
+},
+{
+  "id": 188, 
+  "marka": "Bournvita",
+  "alternatif_isimler": ["bournvita"],
+  "kategori": "İçecek / Besleyici İçecek",
+  "sebep": "Mondelēz International bünyesindedir. Mondelēz'in İsrail merkezli gıda teknolojisi girişimlerine yaptığı yatırımlar ve işgal rejimine sağladığı ticari destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/bournvita-1159",
+  "alternatif": "Yerli Kakao/Besin Takviyeleri",
+  "siddet": "yuksek"
+},
+{
+  "id": 189, 
+  "marka": "Kınık",
+  "alternatif_isimler": ["kınık maden suyu"],
+  "kategori": "İçecek / Maden Suyu",
+  "sebep": "Boykot Değil: Türkiye merkezli yerli sermayeli bir markadır. İsrail ile herhangi bir bağı bulunmamaktadır. Güvenle tüketilebilir.",
+  "kaynak": "https://boykotdedektifi.com/b/kinik-2794",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 190, 
+  "marka": "Copella",
+  "alternatif_isimler": ["copella"],
+  "kategori": "İçecek / Meyve Suyu",
+  "sebep": "PepsiCo bünyesindedir. PepsiCo'nun İsrail ekonomisindeki aktif rolü ve işgal rejimine sağladığı doğrudan vergi/yatırım desteği nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/copella-2625",
+  "alternatif": "Aroma, Pınar",
+  "siddet": "yuksek"
+},
+ {
+  "id": 191, 
+  "marka": "Gratis",
+  "alternatif_isimler": ["gratis"],
+  "kategori": "Kozmetik Mağazası",
+  "sebep": "Boykot Değil: Türkiye merkezli Demirören Holding bünyesinde faaliyet gösteren bir perakende zinciridir. İsrail ile boykot gerektirecek bir bağı saptanmamıştır.",
+  "kaynak": "https://boykotdedektifi.com/b/gratis-2241",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 192, 
+  "marka": "Watsons",
+  "alternatif_isimler": ["watsons"],
+  "kategori": "Kozmetik Mağazası",
+  "sebep": "Kısmen Boykot: AS Watson Group bünyesindedir. Grubun İsrail pazarındaki faaliyetleri ve üst kuruluşların Siyonist sermaye gruplarıyla olan finansal bağları nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/watsons-2366",
+  "alternatif": "Gratis, Eve, Rossmann (Yerli Ürünler)",
+  "siddet": "orta"
+},
+{
+  "id": 193, 
+  "marka": "Yves Rocher",
+  "alternatif_isimler": ["yves rocher", "iv roşe"],
+  "kategori": "Kozmetik / Kişisel Bakım",
+  "sebep": "Kısmen Boykot: Group Rocher bünyesindedir. Markanın İsrail'deki aktif mağaza ağı ve işgal rejimi ekonomisine sağladığı ticari destek nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/yves-rocher-207",
+  "alternatif": "Eyüp Sabri Tuncer, Farmasi, Sinoz",
+  "siddet": "orta"
+},
+{
+  "id": 194, 
+  "marka": "Avon",
+  "alternatif_isimler": ["avon"],
+  "kategori": "Kozmetik / Kişisel Bakım",
+  "sebep": "İsrail'deki doğrudan yatırımları ve markanın hissedar yapısındaki Siyonist fonların işgal rejimine sağladığı dolaylı finansal destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/avon-2301",
+  "alternatif": "Farmasi, Ersağ, Biobellinda",
+  "siddet": "yuksek"
+},
+{
+  "id": 195, 
+  "marka": "Sephora",
+  "alternatif_isimler": ["sephora", "sefora"],
+  "kategori": "Kozmetik Mağazası",
+  "sebep": "LVMH Grubu markasıdır. Grubun ana hissedarı Bernard Arnault'un İsrail merkezli teknoloji ve siber güvenlik şirketlerine yaptığı devasa yatırımlar nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/sephora-1821",
+  "alternatif": "Gratis, Eve (Yerli Marka Seçkileri)",
+  "siddet": "yuksek"
+},
+{
+  "id": 196, 
+  "marka": "Kiko Milano",
+  "alternatif_isimler": ["kiko", "kiko milano"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Ahlaken Boykot: Markanın İsrail merkezli perakende ortaklıkları ve üst yönetim kademesinin işgal rejimini destekleyen fonlarla olan finansal bağları.",
+  "kaynak": "https://boykotdedektifi.com/b/kiko-milano-2046",
+  "alternatif": "Golden Rose, Flormar, Pastel",
+  "siddet": "orta"
+},
+{
+  "id": 197, 
+  "marka": "Burberry Beauty",
+  "alternatif_isimler": ["burberry", "börberi"],
+  "kategori": "Kozmetik / Parfüm",
+  "sebep": "Kozmetik lisansı Coty bünyesindedir. Coty'nin ve hissedarlarının İsrail ekonomisindeki derin yatırımları ve işgal rejimine sağladıkları finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/burberry-1163",
+  "alternatif": "Rebul, Eyüp Sabri Tuncer, Bargello",
+  "siddet": "yuksek"
+},
+{
+  "id": 198, 
+  "marka": "Maybelline New York",
+  "alternatif_isimler": ["maybelline", "meybilin"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "L'Oréal Group markasıdır. L'Oréal'in İsrail'deki yasa dışı yerleşim bölgelerinde (Migdal HaEmek) fabrikasının bulunması ve işgal rejimine sağladığı doğrudan destek nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/maybelline-new-york-210",
+  "alternatif": "Golden Rose, Pastel, Gabrini, Note",
+  "siddet": "yuksek"
+},
+{
+  "id": 199, 
+  "marka": "L'Oréal Paris",
+  "alternatif_isimler": ["loreal", "loreal paris"],
+  "kategori": "Kozmetik / Kişisel Bakım",
+  "sebep": "İsrail'de üretim tesisi ve Ar-Ge merkezi bulunmaktadır. İşgal altındaki topraklarda faaliyet göstererek İsrail ekonomisinin en büyük küresel destekçilerinden biri olduğu için kesin boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/loreal-paris-209",
+  "alternatif": "Farmasi, Sinoz, Maruderm, Bioblas",
+  "siddet": "yuksek"
+},
+{
+  "id": 200, 
+  "marka": "NYX Professional Makeup",
+  "alternatif_isimler": ["nyx", "niks"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "L'Oréal Group iştirakidir. Üst kuruluşun İsrail'deki üretim faaliyetleri ve işgal rejimine sağladığı finansal/teknolojik güç nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/nyx-211",
+  "alternatif": "Golden Rose, Pastel, Gabrini",
+  "siddet": "yuksek"
+},
+{
+  "id": 201, 
+  "marka": "Urban Decay",
+  "alternatif_isimler": ["urban decay", "örban dikeym"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "L'Oréal Group bünyesindedir. Ana grubun İsrail ekonomisindeki ağırlığı ve işgal rejimine sağladığı sistemik finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/urban-decay-834",
+  "alternatif": "Note, Pastel, Beaulis",
+  "siddet": "yuksek"
+},
+{
+  "id": 202, 
+  "marka": "Wet n Wild",
+  "alternatif_isimler": ["wet n wild", "vet n vayld"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Ahlaken Boykot: Markanın üst kuruluşu olan Markwins Beauty Brands'in İsrail merkezli perakende ve dağıtım ortaklıkları üzerinden işgal ekonomisine sağladığı dolaylı destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/wet-n-wild-2367",
+  "alternatif": "Beaulis, Gabrini, Pastel",
+  "siddet": "orta"
+},
+{
+  "id": 203, 
+  "marka": "Yves Saint Laurent Beauty",
+  "alternatif_isimler": ["ysl beauty"],
+  "kategori": "Kozmetik / Lüks",
+  "sebep": "L'Oréal Group lisansı altındadır. L'Oréal'in İsrail'deki üretim tesisleri ve işgal rejimine sağladığı büyük sermaye desteği nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/yves-saint-laurent-beauty-266",
+  "alternatif": "Vakko Kozmetik, Yerli Butik Parfümörler",
+  "siddet": "yuksek"
+},
+{
+  "id": 204, 
+  "marka": "Lancôme",
+  "alternatif_isimler": ["lancome", "lankom"],
+  "kategori": "Kozmetik / Lüks",
+  "sebep": "L'Oréal Group bünyesindedir. Grubun İsrail siber teknoloji ve sanayi sektörüne yaptığı yatırımlar nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/lancome-854",
+  "alternatif": "Sinoz, Maruderm (Cilt Bakımı), Farmasi",
+  "siddet": "yuksek"
+},
+{
+  "id": 205, 
+  "marka": "MAC Cosmetics",
+  "alternatif_isimler": ["mac", "mak"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Estée Lauder Companies bünyesindedir. Grubun kurucusu olan Lauder ailesinin İsrail'e ve Siyonist kuruluşlara yaptığı devasa ve düzenli maddi yardımlar nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/mac-836",
+  "alternatif": "Golden Rose, Note, Flormar",
+  "siddet": "yuksek"
+},
+{
+  "id": 206, 
+  "marka": "Estée Lauder",
+  "alternatif_isimler": ["estee lauder", "este loder"],
+  "kategori": "Kozmetik / Kişisel Bakım",
+  "sebep": "Ronald Lauder (Estée Lauder başkanı), Dünya Yahudi Kongresi başkanıdır ve İsrail'in en büyük finansal/siyasi destekçilerinden biridir. Şirket, işgal rejiminin ideolojik ve maddi en büyük dayanaklarındandır.",
+  "kaynak": "https://boykotdedektifi.com/b/estee-lauder-851",
+  "alternatif": "Sinoz, Farmasi, Maruderm",
+  "siddet": "yuksek"
+},
+{
+  "id": 207, 
+  "marka": "Giorgio Armani Beauty",
+  "alternatif_isimler": ["armani beauty"],
+  "kategori": "Kozmetik / Parfüm",
+  "sebep": "L'Oréal Group bünyesindedir. Ana kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve işgal rejimine sağladığı kurumsal finansman nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/giorgio-armani-beauty-216",
+  "alternatif": "Bargello, Eyüp Sabri Tuncer",
+  "siddet": "yuksek"
+},
+{
+  "id": 208, 
+  "marka": "Fenty Beauty",
+  "alternatif_isimler": ["fenty beauty", "fenti"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "LVMH Grubu bünyesindedir. Grubun CEO'su Bernard Arnault'un İsrail merkezli şirketlere yaptığı büyük yatırımlar ve grubun işgal rejimine sağladığı dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/fenty-beauty-by-rihanna-214",
+  "alternatif": "Pastel, Gabrini, Golden Rose",
+  "siddet": "yuksek"
+},
+{
+  "id": 209, 
+  "marka": "Tom Ford Beauty",
+  "alternatif_isimler": ["tom ford", "tom ford kozmetik"],
+  "kategori": "Kozmetik / Lüks",
+  "sebep": "Estée Lauder Companies bünyesindedir. Üst kuruluşun ve Lauder ailesinin İsrail'e sağladığı doğrudan finansal ve siyasi destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/tom-ford-1924",
+  "alternatif": "Yerli Lüks Parfüm Markaları",
+  "siddet": "yuksek"
+},
+{
+  "id": 210, 
+  "marka": "Yves Saint Laurent",
+  "alternatif_isimler": ["ysl", "iv san loren"],
+  "kategori": "Kozmetik / Lüks",
+  "sebep": "Kozmetik birimi L'Oréal Group tarafından yönetilmektedir. L'Oréal'in İsrail ekonomisindeki baskınlığı ve işgal rejimine sağladığı sistemik destek nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/yves-saint-laurent-2006",
+  "alternatif": "Vakko, Yerli Parfümörler",
+  "siddet": "yuksek"
+},
+{
+  "id": 211, 
+  "marka": "Dior Beauty",
+  "alternatif_isimler": ["dior", "diyar"],
+  "kategori": "Kozmetik / Lüks",
+  "sebep": "LVMH Grubu markasıdır. LVMH'nin İsrail siber güvenlik ve teknoloji sektörüne yaptığı büyük sermaye yatırımları nedeniyle kesin boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/dior-christian-dior-267",
+  "alternatif": "Farmasi, Sinoz (Premium Seriler)",
+  "siddet": "yuksek"
+},
+{
+  "id": 212, 
+  "marka": "Bobbi Brown",
+  "alternatif_isimler": ["bobbi brown", "bobi bravn"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Estée Lauder Companies iştirakidir. Üst yönetimin ve sermaye sahiplerinin İsrail'e olan açık ve büyük ölçekli finansal destekleri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/bobbi-brown-862",
+  "alternatif": "Note, Golden Rose, Pastel",
+  "siddet": "yuksek"
+},
+{
+  "id": 213, 
+  "marka": "Max Factor",
+  "alternatif_isimler": ["max factor", "maks faktör"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Coty bünyesinde yer alan markanın, üst kuruluşun İsrail ile olan derin ticari bağları ve Siyonist sermaye ortaklıkları nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/max-factor-865",
+  "alternatif": "Flormar, Gabrini, Note",
+  "siddet": "yuksek"
+},
+{
+  "id": 214, 
+  "marka": "Aerin",
+  "alternatif_isimler": ["aerin beauty"],
+  "kategori": "Kozmetik / Parfüm",
+  "sebep": "Estée Lauder Companies markasıdır. Lauder ailesinin İsrail'e sağladığı doğrudan finansal destekler nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/aerin-221",
+  "alternatif": "Eyüp Sabri Tuncer, Rebul",
+  "siddet": "yuksek"
+},
+{
+  "id": 215, 
+  "marka": "Kylie Cosmetics",
+  "alternatif_isimler": ["kylie", "kayli"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Coty Inc. bünyesindedir. Üst kuruluşun İsrail ekonomisine ve sanayisine sağladığı dolaylı finansal ortaklıklar nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/kylie-cosmetics-868",
+  "alternatif": "Beaulis, Pastel, Golden Rose",
+  "siddet": "yuksek"
+},
+{
+  "id": 216, 
+  "marka": "Labello",
+  "alternatif_isimler": ["labello", "labelo"],
+  "kategori": "Kişisel Bakım / Dudak",
+  "sebep": "Beiersdorf bünyesindedir. Beiersdorf'un ana hissedarı Maxingvest AG'nin İsrail ile olan ticari bağları nedeniyle boykot listesinde yer almaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/labello-1574",
+  "alternatif": "Hametan, Blis, Yerli Dudak Nemlendiricileri",
+  "siddet": "orta"
+},
+{
+  "id": 217, 
+  "marka": "Procter & Gamble (P&G)",
+  "alternatif_isimler": ["p&g", "pg"],
+  "kategori": "Kişisel Bakım / Temizlik",
+  "sebep": "İsrail'e yıllık bazda 2 milyar dolardan fazla yatırım yapan, İsrail'de Ar-Ge merkezi bulunan ve işgal ekonomisinin en büyük küresel destekçilerinden biri olan bir şirkettir.",
+  "kaynak": "https://boykotdedektifi.com/b/procter-gamble-619",
+  "alternatif": "ABC, Peros, Bingo, Duru, Evyap",
+  "siddet": "yuksek"
+},
+{
+  "id": 218, 
+  "marka": "Bipa",
+  "alternatif_isimler": ["bipa"],
+  "kategori": "Kozmetik Mağazası",
+  "sebep": "Ahlaken Boykot: Rewe Group bünyesindedir. Grubun İsrail pazarındaki ticari faaliyetleri ve hissedarlarının Siyonist kuruluşlara sağladığı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/bipa-1152",
+  "alternatif": "Gratis, Eve",
+  "siddet": "orta"
+},
+{
+  "id": 219, 
+  "marka": "Douglas",
+  "alternatif_isimler": ["douglas", "daglas"],
+  "kategori": "Kozmetik Mağazası",
+  "sebep": "CVC Capital Partners bünyesindedir. Hissedar yapısındaki Siyonist fonların etkisi ve İsrail ekonomisine sağlanan dolaylı finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/douglas-1295",
+  "alternatif": "Yerli Kozmetik Zincirleri",
+  "siddet": "orta"
+},
+{
+  "id": 220, 
+  "marka": "Sante",
+  "alternatif_isimler": ["sante", "sante natural"],
+  "kategori": "Kişisel Bakım / Doğal",
+  "sebep": "L'Oréal Group bünyesindedir. 2018 yılında L'Oréal tarafından satın alınması nedeniyle, ana grubun İsrail ile olan tüm boykot gerekçelerine dahildir.",
+  "kaynak": "https://boykotdedektifi.com/b/sante-1814",
+  "alternatif": "Eyüp Sabri Tuncer, Agarta, Thalia",
+  "siddet": "yuksek"
+},
+{
+  "id": 221, 
+  "marka": "Jo Malone",
+  "alternatif_isimler": ["jo malone", "co malon"],
+  "kategori": "Kozmetik / Parfüm",
+  "sebep": "Estée Lauder Companies iştirakidir. Üst kuruluşun ve kurucu ailenin İsrail'e sağladığı devasa finansal ve ideolojik destekler nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/jo-malone-888",
+  "alternatif": "Rebul, Atasay (Parfüm Serileri), Yerli Butik Markalar",
+  "siddet": "yuksek"
+},
+{
+  "id": 222, 
+  "marka": "Dr. Jart+",
+  "alternatif_isimler": ["dr jart", "doktor jart"],
+  "kategori": "Kozmetik / Cilt Bakımı",
+  "sebep": "Estée Lauder Companies bünyesindedir. Üst kuruluşun İsrail ekonomisindeki aktif rolü ve hissedarlarının Siyonist kuruluşlara sağladığı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/dr.-jartplus-887",
+  "alternatif": "Sinoz, Maruderm, She Vec",
+  "siddet": "yuksek"
+},
+{
+  "id": 223, 
+  "marka": "By Kilian",
+  "alternatif_isimler": ["kilian", "bay kilyan"],
+  "kategori": "Kozmetik / Lüks Parfüm",
+  "sebep": "Estée Lauder Companies markasıdır. Lauder ailesinin İsrail'e olan açık desteği ve grubun işgal rejimine sağladığı finansal güç nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/by-kilian-1165",
+  "alternatif": "Yerli Lüks Parfüm Üreticileri",
+  "siddet": "yuksek"
+},
+{
+  "id": 224, 
+  "marka": "Too Faced",
+  "alternatif_isimler": ["too faced", "tu feysid"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Estée Lauder Companies bünyesindedir. Üst kuruluşun İsrail yanlısı politikaları ve finansal destek kanalları nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/too-faced-886",
+  "alternatif": "Note, Golden Rose, Gabrini",
+  "siddet": "yuksek"
+},
+{
+  "id": 225, 
+  "marka": "Helena Rubinstein",
+  "alternatif_isimler": ["helena rubinstein"],
+  "kategori": "Kozmetik / Lüks",
+  "sebep": "L'Oréal Group iştirakidir. Üst kuruluşun İsrail'deki yasa dışı yerleşim birimlerindeki üretimi ve işgal rejimine sağladığı sermaye desteği.",
+  "kaynak": "https://boykotdedektifi.com/b/helena-rubinstein-908",
+  "alternatif": "Vakko Kozmetik, Sinoz",
+  "siddet": "yuksek"
+},
+{
+  "id": 226, 
+  "marka": "Smashbox",
+  "alternatif_isimler": ["smashbox", "smeşboks"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Estée Lauder Companies bünyesindedir. Kurucu ailenin İsrail'e olan maddi yardımları ve grubun işgal ekonomisindeki yeri nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/smashbox-1834",
+  "alternatif": "Note, Golden Rose, Flormar",
+  "siddet": "yuksek"
+},
+{
+  "id": 227, 
+  "marka": "Collistar",
+  "alternatif_isimler": ["collistar", "kolistar"],
+  "kategori": "Kozmetik / Cilt Bakımı",
+  "sebep": "Ahlaken Boykot: Markanın İsrail merkezli dağıtım ağları ve hissedar yapısındaki Siyonist fonların işgal rejimine sağladığı dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/collistar-1222",
+  "alternatif": "Sinoz, Maruderm",
+  "siddet": "orta"
+},
+{
+  "id": 228, 
+  "marka": "Logona",
+  "alternatif_isimler": ["logona", "logona naturkosmetik"],
+  "kategori": "Kişisel Bakım / Doğal",
+  "sebep": "L'Oréal Group bünyesindedir. 2018 yılında L'Oréal tarafından satın alınmasıyla birlikte ana grubun tüm boykot gerekçelerine dahil olmuştur.",
+  "kaynak": "https://boykotdedektifi.com/b/logona-1561",
+  "alternatif": "Agarta, Thalia, Eyüp Sabri Tuncer",
+  "siddet": "yuksek"
+},
+{
+  "id": 229, 
+  "marka": "Prescriptives",
+  "alternatif_isimler": ["prescriptives"],
+  "kategori": "Kozmetik / Cilt Bakımı",
+  "sebep": "Estée Lauder Companies markasıdır. Lauder ailesinin İsrail yanlısı faaliyetleri ve finansal destekleri nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/prescriptives-1731",
+  "alternatif": "Farmasi, Sinoz",
+  "siddet": "yuksek"
+},
+{
+  "id": 230, 
+  "marka": "Clearasil",
+  "alternatif_isimler": ["clearasil", "klerasil"],
+  "kategori": "Kişisel Bakım / Akne Karşıtı",
+  "sebep": "Reckitt Benckiser bünyesindedir. Şirketin İsrail ile olan ticari partnerlikleri ve işgal rejimini destekleyen fonlarla olan finansal bağları nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/clerasil-1221",
+  "alternatif": "Sinoz Akne Karşıtı, Maruderm, She Vec",
+  "siddet": "yuksek"
+},
+{
+  "id": 231, 
+  "marka": "Essie",
+  "alternatif_isimler": ["essie", "esi"],
+  "kategori": "Kozmetik / Oje",
+  "sebep": "L'Oréal Group iştirakidir. Üst kuruluşun İsrail ekonomisindeki aktif yatırım rolleri ve işgal rejimine sağladığı sistemik finansal güç.",
+  "kaynak": "https://boykotdedektifi.com/b/essie-1339",
+  "alternatif": "Golden Rose, Pastel, Mara, Gabrini",
+  "siddet": "yuksek"
+},
+{
+  "id": 232, 
+  "marka": "Ellen Betrix",
+  "alternatif_isimler": ["ellen betrix"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Coty Inc. bünyesindeki Max Factor markasına ait bir seridir. Coty'nin İsrail ile olan güçlü ticari bağları nedeniyle boykot edilmektedir.",
+  "kaynak": "https://boykotdedektifi.com/b/ellen-betrix-1333",
+  "alternatif": "Note, Flormar",
+  "siddet": "yuksek"
+},
+{
+  "id": 233, 
+  "marka": "Rogaine",
+  "alternatif_isimler": ["rogaine", "rogeyn"],
+  "kategori": "Kişisel Bakım / Saç Bakım",
+  "sebep": "Kenvue (eski adıyla Johnson & Johnson) bünyesindedir. Şirketin İsrail'deki yasa dışı yerleşim yerlerindeki faaliyetleri ve işgal rejimine sağladığı destekler nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/rogaine-1780",
+  "alternatif": "Bioxcin, Bioblas (Yerli Saç Bakımı)",
+  "siddet": "yuksek"
+},
+{
+  "id": 234, 
+  "marka": "Essence",
+  "alternatif_isimler": ["essence", "esens"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Boykot Değil: Cosnova Beauty (Alman) bünyesindedir. İsrail ile boykot gerektirecek doğrudan bir finansal veya siyasi bağı saptanmamıştır.",
+  "kaynak": "https://boykotdedektifi.com/b/essence-2657",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 235, 
+  "marka": "Herborist",
+  "alternatif_isimler": ["herborist"],
+  "kategori": "Kozmetik / Kişisel Bakım",
+  "sebep": "Boykot Değil: Çin merkezli bir markadır. İsrail ile boykot kapsamında bir bağı bulunmamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/herborist-2145",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 236, 
+  "marka": "Perfect Diary",
+  "alternatif_isimler": ["perfect diary"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Boykot Değil: Çin menşeli bir markadır. İsrail işgal rejimi ile bir bağı bulunmamaktadır.",
+  "kaynak": "https://boykotdedektifi.com/b/perfect-diary-2143",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 237, 
+  "marka": "Florasis",
+  "alternatif_isimler": ["florasis"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "Boykot Değil: Çin merkezli lüks kozmetik markasıdır. Boykot kapsamında değildir.",
+  "kaynak": "https://boykotdedektifi.com/b/florasis-2144",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 238, 
+  "marka": "Amway",
+  "alternatif_isimler": ["amway", "amvey"],
+  "kategori": "Kozmetik / Kişisel Bakım",
+  "sebep": "Şirket kurucusu ve yönetim kademesinin İsrail yanlısı kuruluşlara verdiği açık maddi destekler ve markanın işgal ekonomisiyle olan ticari bağları nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/amway-2249",
+  "alternatif": "Farmasi, Ersağ, Biobellinda",
+  "siddet": "yuksek"
+},
+{
+  "id": 239, 
+  "marka": "Benefit Cosmetics",
+  "alternatif_isimler": ["benefit", "benefit kozmetik"],
+  "kategori": "Kozmetik / Makyaj",
+  "sebep": "LVMH Grubu markasıdır. Üst kuruluşun İsrail merkezli teknoloji fonlarına yaptığı yatırımlar ve grubun işgal rejimine sağladığı dolaylı finansal destekler.",
+  "kaynak": "https://boykotdedektifi.com/b/benefit-cosmetics-2777",
+  "alternatif": "Note, Golden Rose, Pastel",
+  "siddet": "yuksek"
+},
+{
+  "id": 240, 
+  "marka": "Eve",
+  "alternatif_isimler": ["eve shop", "ive"],
+  "kategori": "Kozmetik Mağazası",
+  "sebep": "Boykot Değil: Türkiye merkezli Turgut Aydın Holding bünyesinde faaliyet gösteren bir perakende zinciridir. Yerli sermayedir.",
+  "kaynak": "https://boykotdedektifi.com/b/eve-2956",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 241, 
+  "marka": "Benri",
+  "alternatif_isimler": ["benri"],
+  "kategori": "Kişisel Bakım / Kozmetik",
+  "sebep": "Boykot Değil: Gratis perakende zincirinin kendi özel markasıdır (Private Label). Yerli üretim ve sermaye odaklıdır.",
+  "kaynak": "https://boykotdedektifi.com/b/benri-2913",
+  "alternatif": "Kendisi bir alternatiftir.",
+  "siddet": "yok"
+},
+{
+  "id": 242, 
+  "marka": "Brut",
+  "alternatif_isimler": ["brut parfüm", "brüt"],
+  "kategori": "Kozmetik / Parfüm",
+  "sebep": "Unilever bünyesinde yer alan bir markadır. Unilever'in İsrail'deki yasa dışı yerleşim yerlerinde üretim yapması ve işgal rejimine sağladığı büyük finansal destekler nedeniyle boykot listesindedir.",
+  "kaynak": "https://boykotdedektifi.com/b/brut-2923",
+  "alternatif": "Rebul, Eyüp Sabri Tuncer, Bargello",
+  "siddet": "yuksek"
+},
+{
+  "id": 243, 
+  "marka": "Artistry",
+  "alternatif_isimler": ["artistry", "amway artistry"],
+  "kategori": "Kozmetik / Cilt Bakımı",
+  "sebep": "Amway bünyesindeki bir markadır. Amway'in sahiplerinin ve üst yönetiminin İsrail yanlısı lobi faaliyetlerine ve işgal rejimine sağladığı maddi destekler nedeniyle boykot kapsamındadır.",
+  "kaynak": "https://boykotdedektifi.com/b/artistry-2904",
+  "alternatif": "Farmasi, Sinoz, Maruderm",
+  "siddet": "yuksek"
+},
+{
+  "id": 244, 
+  "marka": "Ahava",
+  "alternatif_isimler": ["ahava", "ahava kozmetik"],
+  "kategori": "Kozmetik / Cilt Bakımı",
+  "sebep": "Doğrudan İsrail merkezli bir markadır. Ölü Deniz (Lut Gölü) minerallerini işgal altındaki topraklardan çıkararak üreten ve İsrail ekonomisine doğrudan katkı sağlayan en köklü boykot markalarından biridir.",
+  "kaynak": "https://boykotdedektifi.com/b/ahava-2898",
+  "alternatif": "Yerli Doğal Kozmetik Markaları, Agarta",
+  "siddet": "yuksek"
+}   
   ]
 }
